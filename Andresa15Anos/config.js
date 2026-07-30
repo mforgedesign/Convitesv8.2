@@ -14,7 +14,7 @@ window.config = {
   "convite": {
     "paletaCores": "Rosa com Dourado",
     "tema": "Jardim Encantado",
-    "musica": "assets/music_1785423573425.mp3",
+    "musica": "assets/music_1785423768343.mp3",
     "tipoAbertura": "longa",
     "particulasAbertura": true,
     "slug": "Andresa15Anos",
@@ -25,39 +25,39 @@ window.config = {
     }
   },
   "assets": {
-    "capa": "assets/cover_1785423573425.jpg",
-    "cartao": "assets/cartao_chatgpt_1785423573425.jpg",
+    "capa": "assets/cover_1785423768343.jpg",
+    "cartao": "assets/cartao_chatgpt_1785423768343.jpg",
     "aberturaSlides": [
-      "assets/slide1_1785423573425.mp4",
-      "assets/slide2_1785423573425.jpg",
-      "assets/slide3_1785423573425.mp4",
-      "assets/slide4_1785423573425.jpg"
+      "assets/slide1_1785423768343.mp4",
+      "assets/slide2_1785423768343.jpg",
+      "assets/slide3_1785423768343.mp4",
+      "assets/slide4_1785423768343.jpg"
     ],
     "aberturaSlidesMeta": [
       {
-        "filePath": "assets/slide1_1785423573425.mp4",
+        "filePath": "assets/slide1_1785423768343.mp4",
         "label": "Abertura (Vídeo)",
         "type": "video"
       },
       {
-        "filePath": "assets/slide2_1785423573425.jpg",
+        "filePath": "assets/slide2_1785423768343.jpg",
         "label": "Convite Especial",
         "type": "image"
       },
       {
-        "filePath": "assets/slide3_1785423573425.mp4",
+        "filePath": "assets/slide3_1785423768343.mp4",
         "label": "Slide 3",
         "type": "video"
       },
       {
-        "filePath": "assets/slide4_1785423573425.jpg",
+        "filePath": "assets/slide4_1785423768343.jpg",
         "label": "Prepare-se",
         "type": "image"
       }
     ],
-    "folhaVazia": "assets/folha_vazia_1785423573425.jpg",
-    "folhaPreenchida": "assets/folha_1785423573425.jpg",
-    "musica": "assets/music_1785423573425.mp3",
+    "folhaVazia": "assets/folha_vazia_1785423768343.jpg",
+    "folhaPreenchida": "assets/folha_1785423768343.jpg",
+    "musica": "assets/music_1785423768343.mp3",
     "musicStartSec": 0,
     "musicEndSec": null,
     "fabric": {
@@ -107,6 +107,19 @@ window.config = {
       "titulo": "Dicas de Presente",
       "icone": "fa-solid fa-gift",
       "conteudo": "<link href=\"https://fonts.googleapis.com/css2?family=Cinzel:wght@400;500;600&family=Cormorant+Garamond:ital,wght@0,300;0,400;0,500;0,600;1,400&display=swap\" rel=\"stylesheet\">\n<link rel=\"stylesheet\" href=\"https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css\">\n\n<style>\n.lp-root, .lp-root *, .lp-root *::before, .lp-root *::after { color-scheme: light only; forced-color-adjust: none; -webkit-font-smoothing: antialiased; box-sizing: border-box; }\n.lp-root { background:#fff7fb; color:#6b294f; margin:0; padding:0; }\n.lp-wrap { position:relative; padding:30px 18px 36px; overflow:hidden; font-family:'Cormorant Garamond',serif; background:linear-gradient(160deg,#fff9fc 0%,#fbe8f2 50%,#fffaf4 100%); }\n.lp-header { position:relative; z-index:2; text-align:center; margin-bottom:22px; }\n.lp-header h2 { font-family:'Cinzel',serif; font-size:22px; color:#8d3f68; letter-spacing:.13em; margin-bottom:4px; }\n.lp-header .sub { color:#ad6b8b; font-size:14px; font-style:italic; margin-bottom:2px; }\n.lp-header .badge { display:inline-block; margin-top:6px; font-family:'Cinzel',serif; font-size:10px; letter-spacing:.18em; text-transform:uppercase; background:linear-gradient(135deg,#f3c7d9,#f7e2b1); border:1px solid rgba(190,130,90,.45); border-radius:30px; padding:3px 14px; color:#94612d; }\n.lp-grid { display:grid; gap:10px; position:relative; z-index:2; }\n.lp-card { display:flex; gap:13px; align-items:center; padding:13px 15px; border-radius:20px; background:rgba(255,255,255,.94); border:1px solid rgba(210,150,175,.35); box-shadow:0 2px 14px rgba(160,70,110,.08); animation:lpFade .5s ease both; }\n@keyframes lpFade { from{opacity:0;transform:translateY(10px)} to{opacity:1;transform:translateY(0)} }\n.lp-icon { width:44px; height:44px; border-radius:14px; flex-shrink:0; display:flex; align-items:center; justify-content:center; font-size:17px; color:#fff; background:#d184a8; box-shadow:0 2px 10px rgba(170,70,120,.22); }\n.icon-blue { background:linear-gradient(145deg,#e5a1bf,#ad4f7d); }\n.icon-silver { background:linear-gradient(145deg,#f0c8d7,#c47b9b); }\n.icon-light { background:linear-gradient(145deg,#f4bfd3,#d479a3); }\n.icon-deep { background:linear-gradient(145deg,#b54c7d,#7d2857); }\n.icon-ice { background:linear-gradient(145deg,#f2d3df,#c77a9c); }\n.lp-title { font-family:'Cinzel',serif; font-size:11px; letter-spacing:.14em; text-transform:uppercase; color:#b06a8d; margin-bottom:2px; }\n.lp-name { font-size:15.5px; font-weight:600; color:#6b294f; line-height:1.3; }\n.lp-tip { display:inline-block; margin-top:4px; font-size:12px; color:#98612d; background:rgba(239,201,135,.22); border:1px solid rgba(190,140,70,.28); border-radius:30px; padding:2px 10px; font-style:italic; }\n.lp-divider { text-align:center; position:relative; z-index:2; margin:20px 0 14px; font-family:'Cinzel',serif; font-size:10px; letter-spacing:.22em; color:#a56a87; }\n.lp-divider::before,.lp-divider::after { content:''; display:inline-block; width:44px; height:.5px; background:linear-gradient(to right,transparent,rgba(180,120,70,.5)); vertical-align:middle; margin:0 10px; }\n.lp-divider::after { background:linear-gradient(to left,transparent,rgba(180,120,70,.5)); }\n.pix-box { position:relative; z-index:2; border-radius:20px; background:rgba(255,255,255,.95); border:1px solid rgba(190,140,80,.32); padding:16px 15px 14px; box-shadow:0 2px 16px rgba(170,100,50,.08); }\n.pix-row { display:flex; align-items:center; gap:10px; margin-bottom:11px; }\n.pix-icon-wrap { width:44px; height:44px; border-radius:14px; flex-shrink:0; display:flex; align-items:center; justify-content:center; background:linear-gradient(145deg,#e0a64f,#a96a25); color:#fff; font-size:19px; box-shadow:0 2px 12px rgba(170,100,40,.28); }\n.pix-label { font-family:'Cinzel',serif; font-size:12px; letter-spacing:.12em; text-transform:uppercase; color:#6b294f; margin-bottom:2px; }\n.pix-sub { font-size:13px; color:#ad6b8b; font-style:italic; }\n.pix-key-wrap { display:flex; align-items:center; gap:10px; background:rgba(255,246,231,.9); border:1px solid rgba(190,140,80,.3); border-radius:14px; padding:10px 13px; margin-bottom:9px; }\n.pix-key { flex:1; font-family:'Cinzel',serif; font-size:12px; color:#6b294f; letter-spacing:.02em; word-break:break-all; }\n.pix-copy-btn { flex-shrink:0; cursor:pointer; border:none; outline:none; border-radius:10px; padding:7px 13px; background:linear-gradient(145deg,#e0a64f,#a96a25); color:#fff; font-family:'Cinzel',serif; font-size:11px; letter-spacing:.1em; box-shadow:0 2px 10px rgba(170,100,40,.28); transition:transform .15s,filter .2s,box-shadow .2s; display:flex; align-items:center; justify-content:center; gap:5px; appearance:none; -webkit-appearance:none; touch-action:manipulation; }\n.pix-copy-btn:hover { transform:scale(1.04); }.pix-copy-btn:active { transform:scale(.97); }.pix-copy-btn.copied { filter:saturate(.78); box-shadow:0 2px 12px rgba(170,100,40,.38); }\n.pix-copied { text-align:center; font-size:13px; color:#a96a25; font-style:italic; min-height:20px; opacity:0; transition:opacity .3s; }\n.lp-footer { position:relative; z-index:2; margin-top:18px; border-radius:20px; background:linear-gradient(145deg,rgba(255,255,255,.95),rgba(250,224,235,.8)); border:1px solid rgba(190,130,160,.32); padding:16px; text-align:center; }\n.lp-footer-text { font-size:15px; color:#75405b; line-height:1.7; font-style:italic; }.lp-footer-accent { color:#a96a25; font-weight:600; font-family:'Cinzel',serif; font-size:12px; letter-spacing:.08em; display:block; margin-top:6px; }\n@media (max-width:480px) { .pix-key-wrap { align-items:stretch; flex-direction:column; }.pix-copy-btn { width:100%; min-height:42px; } }\n</style>\n\n<div class=\"lp-root\">\n<div class=\"lp-wrap\">\n  <div class=\"lp-header\">\n    <h2>Lista de Presentes</h2>\n    <p class=\"sub\">Com muito carinho e gratidão ✨</p>\n    <span class=\"badge\">✦ Jardim Encantado ✦</span>\n  </div>\n  <div class=\"lp-grid\">\n    <div class=\"lp-card\"><div class=\"lp-icon icon-blue\"><i class=\"fa-solid fa-spray-can-sparkles\"></i></div><div><div class=\"lp-title\">Presente</div><div class=\"lp-name\">Perfume ou Body Splash</div></div></div>\n    <div class=\"lp-card\"><div class=\"lp-icon icon-silver\"><i class=\"fa-solid fa-jar\"></i></div><div><div class=\"lp-title\">Presente</div><div class=\"lp-name\">Hidratante ou Cosmético</div></div></div>\n    <div class=\"lp-card\"><div class=\"lp-icon icon-light\"><i class=\"fa-solid fa-gem\"></i></div><div><div class=\"lp-title\">Presente</div><div class=\"lp-name\">Acessórios</div></div></div>\n    <div class=\"lp-card\"><div class=\"lp-icon icon-deep\"><i class=\"fa-solid fa-palette\"></i></div><div><div class=\"lp-title\">Presente</div><div class=\"lp-name\">Maquiagem</div></div></div>\n    <div class=\"lp-card\"><div class=\"lp-icon icon-blue\"><i class=\"fa-solid fa-shirt\"></i></div><div><div class=\"lp-title\">Tamanho</div><div class=\"lp-name\">Roupas</div><span class=\"lp-tip\">✦ Tamanho P</span></div></div>\n    <div class=\"lp-card\"><div class=\"lp-icon icon-ice\"><i class=\"fa-solid fa-shoe-prints\"></i></div><div><div class=\"lp-title\">Tamanho</div><div class=\"lp-name\">Calçados</div><span class=\"lp-tip\">✦ 37/38</span></div></div>\n    <div class=\"lp-card\"><div class=\"lp-icon icon-silver\"><i class=\"fa-solid fa-scissors\"></i></div><div><div class=\"lp-title\">Tamanho</div><div class=\"lp-name\">Short ou Calça</div><span class=\"lp-tip\">✦ Tamanho 38</span></div></div>\n  </div>\n  <div class=\"lp-divider\">✦ pix ✦</div>\n  <div class=\"pix-box\">\n    <div class=\"pix-row\"><div class=\"pix-icon-wrap\"><i class=\"fa-solid fa-qrcode\"></i></div><div><div class=\"pix-label\">Chave Pix</div><div class=\"pix-sub\">Celular · copie abaixo ✨</div></div></div>\n    <div class=\"pix-key-wrap\"><span class=\"pix-key\">21981285309</span><button class=\"pix-copy-btn\" type=\"button\" aria-label=\"Copiar chave Pix\" onclick=\"var box=this.closest('.pix-box'),btn=this,keyEl=box&&box.querySelector('.pix-key'),msg=box&&box.querySelector('.pix-copied');if(!box||!keyEl||!msg)return;var key=keyEl.textContent.trim();if(!btn.dataset.pixCopyOriginal)btn.dataset.pixCopyOriginal=btn.innerHTML;var copied=function(){btn.textContent='✓ Pix copiado';btn.classList.add('copied');msg.textContent='Chave Pix copiada para a área de transferência.';msg.style.opacity='1';clearTimeout(btn._pixCopyTimer);btn._pixCopyTimer=setTimeout(function(){btn.innerHTML=btn.dataset.pixCopyOriginal;btn.classList.remove('copied');msg.textContent='';msg.style.opacity='0';},2500);};var manual=function(){var ta=null;try{ta=document.createElement('textarea');ta.value=key;ta.setAttribute('readonly','');ta.style.position='fixed';ta.style.opacity='0';document.body.appendChild(ta);ta.select();ta.setSelectionRange(0,ta.value.length);var didCopy=document.execCommand('copy');if(!didCopy)throw new Error('copy');copied();}catch(error){msg.textContent='Não foi possível copiar automaticamente. Copie a chave: '+key;msg.style.opacity='1';}finally{if(ta&&ta.parentNode)ta.parentNode.removeChild(ta);}};if(navigator.clipboard&&window.isSecureContext){navigator.clipboard.writeText(key).then(copied).catch(manual);}else{manual();}\"><i class=\"fa-solid fa-copy\" style=\"font-size:12px;\"></i> Copiar</button></div>\n    <p class=\"pix-copied\" role=\"status\" aria-live=\"polite\" aria-atomic=\"true\"></p>\n  </div>\n  <div class=\"lp-footer\"><div class=\"lp-footer-text\">Sua presença já é o maior presente para a Andresa.</div><span class=\"lp-footer-accent\">Obrigada por celebrar meus 15 anos comigo ✨</span></div>\n</div>\n</div>"
+    },
+    {
+      "id": "btn_166772d4-a364-4b6c-9e7a-bd77256300f3",
+      "tipoAcao": "RSVP",
+      "tipoVisual": "css",
+      "titulo": "Confirmar Presença",
+      "icone": "fa-solid fa-check",
+      "whatsapp": "5521974750166",
+      "rsvpConfig": {
+        "exibirNome": true,
+        "exibirWhatsapp": false,
+        "exibirAcompanhantes": false
+      }
     }
   ],
   "upsell": {
