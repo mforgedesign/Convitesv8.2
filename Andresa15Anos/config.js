@@ -14,7 +14,7 @@ window.config = {
   "convite": {
     "paletaCores": "Rosa com Dourado",
     "tema": "Jardim Encantado",
-    "musica": "assets/music_1785423031415.mp3",
+    "musica": "assets/music_1785423378859.mp3",
     "tipoAbertura": "longa",
     "particulasAbertura": true,
     "slug": "Andresa15Anos",
@@ -25,39 +25,39 @@ window.config = {
     }
   },
   "assets": {
-    "capa": "assets/cover_1785423031415.jpg",
-    "cartao": "assets/cartao_chatgpt_1785423031415.jpg",
+    "capa": "assets/cover_1785423378859.jpg",
+    "cartao": "assets/cartao_chatgpt_1785423378859.jpg",
     "aberturaSlides": [
-      "assets/slide1_1785423031415.mp4",
-      "assets/slide2_1785423031415.jpg",
-      "assets/slide3_1785423031415.mp4",
-      "assets/slide4_1785423031415.jpg"
+      "assets/slide1_1785423378859.mp4",
+      "assets/slide2_1785423378859.jpg",
+      "assets/slide3_1785423378859.mp4",
+      "assets/slide4_1785423378859.jpg"
     ],
     "aberturaSlidesMeta": [
       {
-        "filePath": "assets/slide1_1785423031415.mp4",
+        "filePath": "assets/slide1_1785423378859.mp4",
         "label": "Abertura (Vídeo)",
         "type": "video"
       },
       {
-        "filePath": "assets/slide2_1785423031415.jpg",
+        "filePath": "assets/slide2_1785423378859.jpg",
         "label": "Convite Especial",
         "type": "image"
       },
       {
-        "filePath": "assets/slide3_1785423031415.mp4",
+        "filePath": "assets/slide3_1785423378859.mp4",
         "label": "Slide 3",
         "type": "video"
       },
       {
-        "filePath": "assets/slide4_1785423031415.jpg",
+        "filePath": "assets/slide4_1785423378859.jpg",
         "label": "Prepare-se",
         "type": "image"
       }
     ],
-    "folhaVazia": "assets/folha_vazia_1785423031415.jpg",
-    "folhaPreenchida": "assets/folha_1785423031415.jpg",
-    "musica": "assets/music_1785423031415.mp3",
+    "folhaVazia": "assets/folha_vazia_1785423378859.jpg",
+    "folhaPreenchida": "assets/folha_1785423378859.jpg",
+    "musica": "assets/music_1785423378859.mp3",
     "musicStartSec": 0,
     "musicEndSec": null,
     "fabric": {
