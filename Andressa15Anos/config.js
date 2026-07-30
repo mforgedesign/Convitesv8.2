@@ -14,7 +14,7 @@ window.config = {
   "convite": {
     "paletaCores": "Rosa com Dourado",
     "tema": "Jardim Encantado",
-    "musica": "assets/music_1785425788096.mp3",
+    "musica": "assets/music_1785431458060.mp3",
     "tipoAbertura": "longa",
     "particulasAbertura": true,
     "slug": "Andressa15Anos",
@@ -25,39 +25,39 @@ window.config = {
     }
   },
   "assets": {
-    "capa": "assets/cover_1785425788096.jpg",
-    "cartao": "assets/cartao_chatgpt_1785425788096.jpg",
+    "capa": "assets/cover_1785431458060.jpg",
+    "cartao": "assets/cartao_chatgpt_1785431458060.jpg",
     "aberturaSlides": [
-      "assets/slide1_1785425788096.mp4",
-      "assets/slide2_1785425788096.jpg",
-      "assets/slide3_1785425788096.mp4",
-      "assets/slide4_1785425788096.jpg"
+      "assets/slide1_1785431458060.mp4",
+      "assets/slide2_1785431458060.jpg",
+      "assets/slide3_1785431458060.mp4",
+      "assets/slide4_1785431458060.jpg"
     ],
     "aberturaSlidesMeta": [
       {
-        "filePath": "assets/slide1_1785425788096.mp4",
+        "filePath": "assets/slide1_1785431458060.mp4",
         "label": "Abertura (Vídeo)",
         "type": "video"
       },
       {
-        "filePath": "assets/slide2_1785425788096.jpg",
+        "filePath": "assets/slide2_1785431458060.jpg",
         "label": "Convite Especial",
         "type": "image"
       },
       {
-        "filePath": "assets/slide3_1785425788096.mp4",
+        "filePath": "assets/slide3_1785431458060.mp4",
         "label": "Slide 3",
         "type": "video"
       },
       {
-        "filePath": "assets/slide4_1785425788096.jpg",
+        "filePath": "assets/slide4_1785431458060.jpg",
         "label": "Prepare-se",
         "type": "image"
       }
     ],
-    "folhaVazia": "assets/folha_vazia_1785425788096.jpg",
-    "folhaPreenchida": "assets/folha_1785425788096.jpg",
-    "musica": "assets/music_1785425788096.mp3",
+    "folhaVazia": "assets/folha_vazia_1785431458060.jpg",
+    "folhaPreenchida": "assets/folha_1785431458060.jpg",
+    "musica": "assets/music_1785431458060.mp3",
     "musicStartSec": 0,
     "musicEndSec": null,
     "fabric": {
@@ -118,7 +118,7 @@ window.config = {
       "rsvpConfig": {
         "exibirNome": true,
         "exibirWhatsapp": false,
-        "exibirAcompanhantes": false
+        "exibirAcompanhantes": true
       }
     }
   ],
