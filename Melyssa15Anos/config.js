@@ -14,50 +14,50 @@ window.config = {
   "convite": {
     "paletaCores": "Rosa/Rosé",
     "tema": "Floral",
-    "musica": "",
+    "musica": "assets/music_1785425597006.mp3",
     "tipoAbertura": "longa",
     "particulasAbertura": true,
     "slug": "Melyssa15Anos",
     "seo": {
-      "pageTitle": "",
+      "pageTitle": "Convite Especial",
       "ogTitle": "Você recebeu um convite especial!",
       "ogDescription": "Embarque nessa noite mágica. Clique para ver os detalhes."
     }
   },
   "assets": {
-    "capa": "assets/cover_1785414971069.png",
-    "cartao": "assets/cartao_chatgpt_1785414971069.jpg",
+    "capa": "assets/cover_1785425597006.png",
+    "cartao": "assets/cartao_chatgpt_1785425597006.jpg",
     "aberturaSlides": [
-      "assets/slide1_1785414971069.mp4",
-      "assets/slide2_1785414971069.jpg",
-      "assets/slide3_1785414971069.mp4",
-      "assets/slide4_1785414971069.mp4"
+      "assets/slide1_1785425597006.mp4",
+      "assets/slide2_1785425597006.jpg",
+      "assets/slide3_1785425597006.mp4",
+      "assets/slide4_1785425597006.mp4"
     ],
     "aberturaSlidesMeta": [
       {
-        "filePath": "assets/slide1_1785414971069.mp4",
+        "filePath": "assets/slide1_1785425597006.mp4",
         "label": "Abertura (Video)",
         "type": "video"
       },
       {
-        "filePath": "assets/slide2_1785414971069.jpg",
+        "filePath": "assets/slide2_1785425597006.jpg",
         "label": "Convite Especial",
         "type": "image"
       },
       {
-        "filePath": "assets/slide3_1785414971069.mp4",
+        "filePath": "assets/slide3_1785425597006.mp4",
         "label": "Cena Tematica",
         "type": "video"
       },
       {
-        "filePath": "assets/slide4_1785414971069.mp4",
+        "filePath": "assets/slide4_1785425597006.mp4",
         "label": "Slide 1",
         "type": "video"
       }
     ],
-    "folhaVazia": "assets/folha_vazia_1785414971069.jpg",
-    "folhaPreenchida": "assets/folha_1785414971069.jpg",
-    "musica": "",
+    "folhaVazia": "assets/folha_vazia_1785425597006.jpg",
+    "folhaPreenchida": "assets/folha_1785425597006.jpg",
+    "musica": "assets/music_1785425597006.mp3",
     "musicStartSec": 0,
     "musicEndSec": null,
     "fabric": {
@@ -65,8 +65,8 @@ window.config = {
         "referencia": "",
         "resultado": "",
         "musicaPersonalizada": "",
-        "musicSource": "semMusica",
-        "hasMusic": false,
+        "musicSource": "convite",
+        "hasMusic": true,
         "musicStartSec": 0,
         "durationSec": 20
       },
@@ -74,8 +74,8 @@ window.config = {
         "referencia": "",
         "resultado": "",
         "musicaPersonalizada": "",
-        "musicSource": "semMusica",
-        "hasMusic": false,
+        "musicSource": "convite",
+        "hasMusic": true,
         "musicStartSec": 0,
         "durationSec": 20
       }
@@ -131,6 +131,8 @@ window.config = {
     "exibirMarcaDagua": false,
     "cronometro": false,
     "buttonColor": "#b03a73",
+    "buttonGradientColor": "#ec4899",
+    "buttonGradientEnabled": false,
     "buttonSize": 1,
     "isButtonFilled": true,
     "shadowStyle": "linear-gradient(to top, rgba(0,0,0,0.85) 0%, rgba(0,0,0,0) 100%)",
@@ -210,10 +212,11 @@ window.config = {
       "targetPalette": "Rosa/Rosé"
     },
     "musicResolution": {
-      "mode": "none",
-      "detail": "O briefing não contratou música.",
+      "mode": "manual",
+      "detail": "Áudio anexado manualmente pelo usuário no Builder.",
       "query": "",
-      "resolvedAt": "2026-07-30T12:23:51.799Z"
+      "resolvedAt": "2026-07-30T15:32:37.955Z",
+      "actor": "user"
     },
     "assetDecisions": {
       "cover": {
