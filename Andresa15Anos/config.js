@@ -14,7 +14,7 @@ window.config = {
   "convite": {
     "paletaCores": "Rosa com Dourado",
     "tema": "Jardim Encantado",
-    "musica": "",
+    "musica": "assets/music_1785423031415.mp3",
     "tipoAbertura": "longa",
     "particulasAbertura": true,
     "slug": "Andresa15Anos",
@@ -25,39 +25,39 @@ window.config = {
     }
   },
   "assets": {
-    "capa": "assets/cover_1785421041021.jpg",
-    "cartao": "assets/cartao_chatgpt_1785421041021.jpg",
+    "capa": "assets/cover_1785423031415.jpg",
+    "cartao": "assets/cartao_chatgpt_1785423031415.jpg",
     "aberturaSlides": [
-      "assets/slide1_1785421041021.mp4",
-      "assets/slide2_1785421041021.jpg",
-      "assets/slide3_1785421041021.mp4",
-      "assets/slide4_1785421041021.jpg"
+      "assets/slide1_1785423031415.mp4",
+      "assets/slide2_1785423031415.jpg",
+      "assets/slide3_1785423031415.mp4",
+      "assets/slide4_1785423031415.jpg"
     ],
     "aberturaSlidesMeta": [
       {
-        "filePath": "assets/slide1_1785421041021.mp4",
+        "filePath": "assets/slide1_1785423031415.mp4",
         "label": "Abertura (Vídeo)",
         "type": "video"
       },
       {
-        "filePath": "assets/slide2_1785421041021.jpg",
+        "filePath": "assets/slide2_1785423031415.jpg",
         "label": "Convite Especial",
         "type": "image"
       },
       {
-        "filePath": "assets/slide3_1785421041021.mp4",
+        "filePath": "assets/slide3_1785423031415.mp4",
         "label": "Slide 3",
         "type": "video"
       },
       {
-        "filePath": "assets/slide4_1785421041021.jpg",
+        "filePath": "assets/slide4_1785423031415.jpg",
         "label": "Prepare-se",
         "type": "image"
       }
     ],
-    "folhaVazia": "assets/folha_vazia_1785421041021.jpg",
-    "folhaPreenchida": "assets/folha_1785421041021.jpg",
-    "musica": "",
+    "folhaVazia": "assets/folha_vazia_1785423031415.jpg",
+    "folhaPreenchida": "assets/folha_1785423031415.jpg",
+    "musica": "assets/music_1785423031415.mp3",
     "musicStartSec": 0,
     "musicEndSec": null,
     "fabric": {
@@ -65,8 +65,8 @@ window.config = {
         "referencia": "",
         "resultado": "",
         "musicaPersonalizada": "",
-        "musicSource": "semMusica",
-        "hasMusic": false,
+        "musicSource": "convite",
+        "hasMusic": true,
         "musicStartSec": 0,
         "durationSec": 20
       },
@@ -74,8 +74,8 @@ window.config = {
         "referencia": "",
         "resultado": "",
         "musicaPersonalizada": "",
-        "musicSource": "semMusica",
-        "hasMusic": false,
+        "musicSource": "convite",
+        "hasMusic": true,
         "musicStartSec": 0,
         "durationSec": 20
       }
@@ -198,10 +198,11 @@ window.config = {
       "targetPalette": "Rosa com Dourado"
     },
     "musicResolution": {
-      "mode": "requested_unavailable",
-      "detail": "O briefing mencionou música, mas não forneceu uma faixa localizável.",
+      "mode": "manual",
+      "detail": "Áudio anexado manualmente pelo usuário no Builder.",
       "query": "",
-      "resolvedAt": "2026-07-30T13:25:39.453Z"
+      "resolvedAt": "2026-07-30T14:50:28.386Z",
+      "actor": "user"
     },
     "assetDecisions": {
       "cover": {
