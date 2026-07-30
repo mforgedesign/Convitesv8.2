@@ -25,38 +25,38 @@ window.config = {
     }
   },
   "assets": {
-    "capa": "assets/cover_1785414607541.png",
-    "cartao": "assets/cartao_chatgpt_1785414607541.jpg",
+    "capa": "assets/cover_1785414971069.png",
+    "cartao": "assets/cartao_chatgpt_1785414971069.jpg",
     "aberturaSlides": [
-      "assets/slide1_1785414607541.mp4",
-      "assets/slide2_1785414607541.jpg",
-      "assets/slide3_1785414607541.mp4",
-      "assets/slide4_1785414607541.jpg"
+      "assets/slide1_1785414971069.mp4",
+      "assets/slide2_1785414971069.jpg",
+      "assets/slide3_1785414971069.mp4",
+      "assets/slide4_1785414971069.mp4"
     ],
     "aberturaSlidesMeta": [
       {
-        "filePath": "assets/slide1_1785414607541.mp4",
+        "filePath": "assets/slide1_1785414971069.mp4",
         "label": "Abertura (Video)",
         "type": "video"
       },
       {
-        "filePath": "assets/slide2_1785414607541.jpg",
+        "filePath": "assets/slide2_1785414971069.jpg",
         "label": "Convite Especial",
         "type": "image"
       },
       {
-        "filePath": "assets/slide3_1785414607541.mp4",
+        "filePath": "assets/slide3_1785414971069.mp4",
         "label": "Cena Tematica",
         "type": "video"
       },
       {
-        "filePath": "assets/slide4_1785414607541.jpg",
-        "label": "Prepare-se",
-        "type": "image"
+        "filePath": "assets/slide4_1785414971069.mp4",
+        "label": "Slide 1",
+        "type": "video"
       }
     ],
-    "folhaVazia": "assets/folha_vazia_1785414607541.jpg",
-    "folhaPreenchida": "assets/folha_1785414607541.jpg",
+    "folhaVazia": "assets/folha_vazia_1785414971069.jpg",
+    "folhaPreenchida": "assets/folha_1785414971069.jpg",
     "musica": "",
     "musicStartSec": 0,
     "musicEndSec": null,
