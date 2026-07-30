@@ -14,7 +14,7 @@ window.config = {
   "convite": {
     "paletaCores": "Rosa com Dourado",
     "tema": "Jardim Encantado",
-    "musica": "assets/music_1785425672465.mp3",
+    "musica": "assets/music_1785425788096.mp3",
     "tipoAbertura": "longa",
     "particulasAbertura": true,
     "slug": "Andressa15Anos",
@@ -25,39 +25,39 @@ window.config = {
     }
   },
   "assets": {
-    "capa": "assets/cover_1785425672465.jpg",
-    "cartao": "assets/cartao_chatgpt_1785425672465.jpg",
+    "capa": "assets/cover_1785425788096.jpg",
+    "cartao": "assets/cartao_chatgpt_1785425788096.jpg",
     "aberturaSlides": [
-      "assets/slide1_1785425672465.mp4",
-      "assets/slide2_1785425672465.jpg",
-      "assets/slide3_1785425672465.mp4",
-      "assets/slide4_1785425672465.jpg"
+      "assets/slide1_1785425788096.mp4",
+      "assets/slide2_1785425788096.jpg",
+      "assets/slide3_1785425788096.mp4",
+      "assets/slide4_1785425788096.jpg"
     ],
     "aberturaSlidesMeta": [
       {
-        "filePath": "assets/slide1_1785425672465.mp4",
+        "filePath": "assets/slide1_1785425788096.mp4",
         "label": "Abertura (Vídeo)",
         "type": "video"
       },
       {
-        "filePath": "assets/slide2_1785425672465.jpg",
+        "filePath": "assets/slide2_1785425788096.jpg",
         "label": "Convite Especial",
         "type": "image"
       },
       {
-        "filePath": "assets/slide3_1785425672465.mp4",
+        "filePath": "assets/slide3_1785425788096.mp4",
         "label": "Slide 3",
         "type": "video"
       },
       {
-        "filePath": "assets/slide4_1785425672465.jpg",
+        "filePath": "assets/slide4_1785425788096.jpg",
         "label": "Prepare-se",
         "type": "image"
       }
     ],
-    "folhaVazia": "assets/folha_vazia_1785425672465.jpg",
-    "folhaPreenchida": "assets/folha_1785425672465.jpg",
-    "musica": "assets/music_1785425672465.mp3",
+    "folhaVazia": "assets/folha_vazia_1785425788096.jpg",
+    "folhaPreenchida": "assets/folha_1785425788096.jpg",
+    "musica": "assets/music_1785425788096.mp3",
     "musicStartSec": 0,
     "musicEndSec": null,
     "fabric": {
@@ -130,7 +130,7 @@ window.config = {
   "config": {
     "exibirMarcaDagua": false,
     "cronometro": false,
-    "buttonColor": "#9b6bd6",
+    "buttonColor": "#b483dd",
     "buttonGradientColor": "#e45d9f",
     "buttonGradientEnabled": true,
     "buttonSize": 1,
