@@ -14,8 +14,8 @@ window.config = {
   "convite": {
     "paletaCores": "Verde esmeralda e dourado",
     "tema": "Casamento Verde esmeralda e dourado",
-    "musica": "",
-    "tipoAbertura": "curta",
+    "musica": "assets/music_1785591367327.mp3",
+    "tipoAbertura": "longa",
     "particulasAbertura": true,
     "slug": "Josy&Sergio",
     "seo": {
@@ -25,30 +25,36 @@ window.config = {
     }
   },
   "assets": {
-    "capa": "assets/cover_1785590050453.jpg",
-    "cartao": "",
+    "capa": "assets/cover_1785591367327.jpg",
+    "cartao": "assets/cartao_chatgpt_1785591367327.jpg",
     "aberturaSlides": [
-      "assets/slide1_1785590050453.mp4"
+      "assets/slide1_1785591367327.mp4",
+      "assets/slide2_1785591367327.jpg"
     ],
     "aberturaSlidesMeta": [
       {
-        "filePath": "assets/slide1_1785590050453.mp4",
+        "filePath": "assets/slide1_1785591367327.mp4",
         "label": "Abertura (Vídeo)",
+        "type": "video"
+      },
+      {
+        "filePath": "assets/slide2_1785591367327.jpg",
+        "label": "Slide 1",
         "type": "video"
       }
     ],
-    "folhaVazia": "assets/folha_vazia_1785590050453.jpg",
-    "folhaPreenchida": "assets/folha_1785590050453.jpg",
-    "musica": "",
-    "musicStartSec": 0,
+    "folhaVazia": "assets/folha_vazia_1785591367327.jpg",
+    "folhaPreenchida": "assets/folha_1785591367327.jpg",
+    "musica": "assets/music_1785591367327.mp3",
+    "musicStartSec": 3,
     "musicEndSec": null,
     "fabric": {
       "saveTheDate": {
         "referencia": "",
         "resultado": "",
         "musicaPersonalizada": "",
-        "musicSource": "semMusica",
-        "hasMusic": false,
+        "musicSource": "convite",
+        "hasMusic": true,
         "musicStartSec": 0,
         "durationSec": 20
       },
@@ -56,13 +62,26 @@ window.config = {
         "referencia": "",
         "resultado": "",
         "musicaPersonalizada": "",
-        "musicSource": "semMusica",
-        "hasMusic": false,
+        "musicSource": "convite",
+        "hasMusic": true,
         "musicStartSec": 0,
         "durationSec": 20
       }
     },
-    "fotos": [],
+    "fotos": [
+      "assets/foto1_1785591367327.jpg",
+      "assets/foto2_1785591367327.jpg",
+      "assets/foto3_1785591367327.jpg",
+      "assets/foto4_1785591367327.jpg",
+      "assets/foto5_1785591367327.jpg",
+      "assets/foto6_1785591367327.jpg",
+      "assets/foto7_1785591367327.jpg",
+      "assets/foto8_1785591367327.jpg",
+      "assets/foto9_1785591367327.jpg",
+      "assets/foto10_1785591367327.jpg",
+      "assets/foto11_1785591367327.jpg",
+      "assets/foto12_1785591367327.jpg"
+    ],
     "popupImagensPorBotao": {}
   },
   "botoes": [
@@ -93,7 +112,20 @@ window.config = {
       "tipoVisual": "css",
       "titulo": "Galeria de Fotos",
       "icone": "fa-solid fa-images",
-      "conteudo": []
+      "conteudo": [
+        "assets/foto1_1785591367327.jpg",
+        "assets/foto2_1785591367327.jpg",
+        "assets/foto3_1785591367327.jpg",
+        "assets/foto4_1785591367327.jpg",
+        "assets/foto5_1785591367327.jpg",
+        "assets/foto6_1785591367327.jpg",
+        "assets/foto7_1785591367327.jpg",
+        "assets/foto8_1785591367327.jpg",
+        "assets/foto9_1785591367327.jpg",
+        "assets/foto10_1785591367327.jpg",
+        "assets/foto11_1785591367327.jpg",
+        "assets/foto12_1785591367327.jpg"
+      ]
     },
     {
       "id": "btn_775405ebd8b38d46",
@@ -209,10 +241,11 @@ window.config = {
       }
     },
     "musicResolution": {
-      "mode": "requested_unavailable",
-      "detail": "O briefing mencionou música, mas não forneceu uma faixa localizável.",
+      "mode": "manual",
+      "detail": "Áudio anexado manualmente pelo usuário no Builder.",
       "query": "v=6-P0iG0EXMY",
-      "resolvedAt": "2026-08-01T13:06:53.493Z"
+      "resolvedAt": "2026-08-01T13:33:31.335Z",
+      "actor": "user"
     }
   }
 };
