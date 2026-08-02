@@ -14,7 +14,7 @@ window.config = {
   "convite": {
     "paletaCores": "Roxo, lilás, branco e dourado",
     "tema": "Jardim das Borboletas",
-    "musica": "assets/music_1785686126627.mp3",
+    "musica": "assets/music_1785686547067.mp3",
     "tipoAbertura": "longa",
     "particulasAbertura": true,
     "slug": "LaviniaVeigaColares15Anos",
@@ -25,39 +25,39 @@ window.config = {
     }
   },
   "assets": {
-    "capa": "assets/cover_1785686126627.jpg",
-    "cartao": "assets/cartao_chatgpt_1785686126627.jpg",
+    "capa": "assets/cover_1785686547067.jpg",
+    "cartao": "assets/cartao_chatgpt_1785686547067.jpg",
     "aberturaSlides": [
-      "assets/slide1_1785686126627.mp4",
-      "assets/slide2_1785686126627.jpg",
-      "assets/slide3_1785686126627.mp4",
-      "assets/slide4_1785686126627.jpg"
+      "assets/slide1_1785686547067.mp4",
+      "assets/slide2_1785686547067.jpg",
+      "assets/slide3_1785686547067.mp4",
+      "assets/slide4_1785686547067.jpg"
     ],
     "aberturaSlidesMeta": [
       {
-        "filePath": "assets/slide1_1785686126627.mp4",
+        "filePath": "assets/slide1_1785686547067.mp4",
         "label": "Abertura (Video)",
         "type": "video"
       },
       {
-        "filePath": "assets/slide2_1785686126627.jpg",
+        "filePath": "assets/slide2_1785686547067.jpg",
         "label": "Convite Especial",
         "type": "image"
       },
       {
-        "filePath": "assets/slide3_1785686126627.mp4",
+        "filePath": "assets/slide3_1785686547067.mp4",
         "label": "Cena Tematica",
         "type": "video"
       },
       {
-        "filePath": "assets/slide4_1785686126627.jpg",
+        "filePath": "assets/slide4_1785686547067.jpg",
         "label": "Prepare-se",
         "type": "image"
       }
     ],
-    "folhaVazia": "assets/folha_vazia_1785686126627.jpg",
-    "folhaPreenchida": "assets/folha_1785686126627.jpg",
-    "musica": "assets/music_1785686126627.mp3",
+    "folhaVazia": "assets/folha_vazia_1785686547067.jpg",
+    "folhaPreenchida": "assets/folha_1785686547067.jpg",
+    "musica": "assets/music_1785686547067.mp3",
     "musicStartSec": 0,
     "musicEndSec": null,
     "fabric": {
@@ -136,11 +136,11 @@ window.config = {
     },
     {
       "id": "btn_8077780ee88bc326",
-      "tipoAcao": "PopupHtml",
+      "tipoAcao": "PopupImagem",
       "tipoVisual": "css",
       "titulo": "Dicas de Presente",
       "icone": "fa-solid fa-gift",
-      "conteudo": "<link href=\"https://fonts.googleapis.com/css2?family=Cinzel:wght@400;500;600&family=Cormorant+Garamond:ital,wght@0,300;0,400;0,500;0,600;1,400&display=swap\" rel=\"stylesheet\">\n<link rel=\"stylesheet\" href=\"https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css\">\n<style>\n.lp-root,.lp-root *,.lp-root *::before,.lp-root *::after{color-scheme:light only;forced-color-adjust:none;-webkit-font-smoothing:antialiased;box-sizing:border-box}.lp-root{background:#f6f0fa;color:#32134f;margin:0;padding:0}.lp-wrap{position:relative;padding:30px 18px 36px;overflow:hidden;font-family:'Cormorant Garamond',serif;background:linear-gradient(160deg,#fbf8fd 0%,#f0e4f7 50%,#fffdf8 100%)}.lp-header{position:relative;z-index:2;text-align:center;margin-bottom:22px}.lp-header h2{font-family:'Cinzel',serif;font-size:22px;color:#32134f;letter-spacing:.13em;margin-bottom:4px}.lp-header .sub{color:#8259a2;font-size:14px;font-style:italic;margin-bottom:2px}.lp-header .badge{display:inline-block;margin-top:6px;font-family:'Cinzel',serif;font-size:10px;letter-spacing:.18em;text-transform:uppercase;background:linear-gradient(135deg,#e2c7ee,#f4e6c1);border:1px solid rgba(184,145,67,.5);border-radius:30px;padding:3px 14px;color:#6b4388}.lp-grid{display:grid;gap:10px;position:relative;z-index:2}.lp-card{display:flex;gap:13px;align-items:center;padding:13px 15px;border-radius:20px;background:rgba(255,255,255,.93);border:1px solid rgba(184,145,67,.3);box-shadow:0 2px 14px rgba(75,28,105,.08)}.lp-icon{width:44px;height:44px;border-radius:14px;flex-shrink:0;display:flex;align-items:center;justify-content:center;font-size:17px;color:#fff;background:#7b3fa0;box-shadow:0 2px 10px rgba(75,28,105,.22)}.icon-blue{background:linear-gradient(145deg,#a56ac4,#643080)}.icon-silver{background:linear-gradient(145deg,#d7c4df,#9472a5)}.icon-light{background:linear-gradient(145deg,#c28ed8,#8951a7)}.icon-deep{background:linear-gradient(145deg,#643080,#32134f)}.icon-ice{background:linear-gradient(145deg,#ead8ef,#b58bc4)}.lp-title{font-family:'Cinzel',serif;font-size:11px;letter-spacing:.14em;text-transform:uppercase;color:#8259a2;margin-bottom:2px}.lp-name{font-size:15.5px;font-weight:600;color:#32134f;line-height:1.3}.lp-tip{display:inline-block;margin-top:4px;font-size:12px;color:#70418b;background:rgba(221,195,232,.35);border:1px solid rgba(184,145,67,.35);border-radius:30px;padding:2px 10px;font-style:italic}.lp-footer{position:relative;z-index:2;margin-top:18px;border-radius:20px;background:linear-gradient(145deg,rgba(255,255,255,.95),rgba(239,220,246,.8));border:1px solid rgba(184,145,67,.4);padding:16px;text-align:center}.lp-footer-text{font-size:15px;color:#55366b;line-height:1.7;font-style:italic}.lp-footer-accent{color:#a77920;font-weight:600;font-family:'Cinzel',serif;font-size:12px;letter-spacing:.08em;display:block;margin-top:6px}\n</style>\n<div class=\"lp-root\"><div class=\"lp-wrap\"><div class=\"lp-header\"><h2>Dicas de Presente</h2><p class=\"sub\">Com muito carinho e gratidão ✨</p><span class=\"badge\">Jardim das Borboletas</span></div><div class=\"lp-grid\"><div class=\"lp-card\"><div class=\"lp-icon icon-blue\"><i class=\"fa-solid fa-spray-can-sparkles\"></i></div><div><div class=\"lp-title\">Presente</div><div class=\"lp-name\">Perfumes</div></div></div><div class=\"lp-card\"><div class=\"lp-icon icon-silver\"><i class=\"fa-solid fa-book\"></i></div><div><div class=\"lp-title\">Presente</div><div class=\"lp-name\">Livros</div></div></div><div class=\"lp-card\"><div class=\"lp-icon icon-light\"><i class=\"fa-solid fa-gem\"></i></div><div><div class=\"lp-title\">Presente</div><div class=\"lp-name\">Jóias (Prata)</div></div></div><div class=\"lp-card\"><div class=\"lp-icon icon-blue\"><i class=\"fa-solid fa-shirt\"></i></div><div><div class=\"lp-title\">Presente</div><div class=\"lp-name\">Vestuário</div><span class=\"lp-tip\">✦ Tamanho 36</span></div></div><div class=\"lp-card\"><div class=\"lp-icon icon-ice\"><i class=\"fa-solid fa-shoe-prints\"></i></div><div><div class=\"lp-title\">Presente</div><div class=\"lp-name\">Tênis</div><span class=\"lp-tip\">✦ Tamanho 38</span></div></div><div class=\"lp-card\"><div class=\"lp-icon icon-deep\"><i class=\"fa-solid fa-qrcode\"></i></div><div><div class=\"lp-title\">Presente</div><div class=\"lp-name\">Pix</div></div></div></div><div class=\"lp-footer\"><div class=\"lp-footer-text\">Sua presença já é o maior presente desta noite especial.</div><span class=\"lp-footer-accent\">Obrigada por fazer parte desse momento ✨</span></div></div></div>"
+      "conteudo": "assets/popup_botao_5_1785686547067.jpg"
     }
   ],
   "upsell": {
