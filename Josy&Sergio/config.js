@@ -14,7 +14,7 @@ window.config = {
   "convite": {
     "paletaCores": "Verde esmeralda e dourado",
     "tema": "Casamento Verde esmeralda e dourado",
-    "musica": "assets/music_1785675549429.mp3",
+    "musica": "assets/music_1785676622543.mp3",
     "tipoAbertura": "longa",
     "particulasAbertura": true,
     "slug": "Josy&Sergio",
@@ -25,27 +25,27 @@ window.config = {
     }
   },
   "assets": {
-    "capa": "assets/cover_1785675549429.jpg",
-    "cartao": "assets/cartao_chatgpt_1785675549429.jpg",
+    "capa": "assets/cover_1785676622543.jpg",
+    "cartao": "assets/cartao_chatgpt_1785676622543.jpg",
     "aberturaSlides": [
-      "assets/slide1_1785675549429.mp4",
-      "assets/slide2_1785675549429.jpg"
+      "assets/slide1_1785676622543.mp4",
+      "assets/slide2_1785676622543.jpg"
     ],
     "aberturaSlidesMeta": [
       {
-        "filePath": "assets/slide1_1785675549429.mp4",
+        "filePath": "assets/slide1_1785676622543.mp4",
         "label": "Abertura (Vídeo)",
         "type": "video"
       },
       {
-        "filePath": "assets/slide2_1785675549429.jpg",
+        "filePath": "assets/slide2_1785676622543.jpg",
         "label": "Slide 1",
         "type": "video"
       }
     ],
-    "folhaVazia": "assets/folha_vazia_1785675549429.jpg",
-    "folhaPreenchida": "assets/folha_1785675549429.jpg",
-    "musica": "assets/music_1785675549429.mp3",
+    "folhaVazia": "assets/folha_vazia_1785676622543.jpg",
+    "folhaPreenchida": "assets/folha_1785676622543.jpg",
+    "musica": "assets/music_1785676622543.mp3",
     "musicStartSec": 3,
     "musicEndSec": null,
     "fabric": {
@@ -69,18 +69,18 @@ window.config = {
       }
     },
     "fotos": [
-      "assets/foto1_1785675549429.jpg",
-      "assets/foto2_1785675549429.jpg",
-      "assets/foto3_1785675549429.jpg",
-      "assets/foto4_1785675549429.jpg",
-      "assets/foto5_1785675549429.jpg",
-      "assets/foto6_1785675549429.jpg",
-      "assets/foto7_1785675549429.jpg",
-      "assets/foto8_1785675549429.jpg",
-      "assets/foto9_1785675549429.jpg",
-      "assets/foto10_1785675549429.jpg",
-      "assets/foto11_1785675549429.jpg",
-      "assets/foto12_1785675549429.jpg"
+      "assets/foto1_1785676622543.jpg",
+      "assets/foto2_1785676622543.jpg",
+      "assets/foto3_1785676622543.jpg",
+      "assets/foto4_1785676622543.jpg",
+      "assets/foto5_1785676622543.jpg",
+      "assets/foto6_1785676622543.jpg",
+      "assets/foto7_1785676622543.jpg",
+      "assets/foto8_1785676622543.jpg",
+      "assets/foto9_1785676622543.jpg",
+      "assets/foto10_1785676622543.jpg",
+      "assets/foto11_1785676622543.jpg",
+      "assets/foto12_1785676622543.jpg"
     ],
     "popupImagensPorBotao": {}
   },
@@ -113,18 +113,18 @@ window.config = {
       "titulo": "Galeria de Fotos",
       "icone": "fa-solid fa-images",
       "conteudo": [
-        "assets/foto1_1785675549429.jpg",
-        "assets/foto2_1785675549429.jpg",
-        "assets/foto3_1785675549429.jpg",
-        "assets/foto4_1785675549429.jpg",
-        "assets/foto5_1785675549429.jpg",
-        "assets/foto6_1785675549429.jpg",
-        "assets/foto7_1785675549429.jpg",
-        "assets/foto8_1785675549429.jpg",
-        "assets/foto9_1785675549429.jpg",
-        "assets/foto10_1785675549429.jpg",
-        "assets/foto11_1785675549429.jpg",
-        "assets/foto12_1785675549429.jpg"
+        "assets/foto1_1785676622543.jpg",
+        "assets/foto2_1785676622543.jpg",
+        "assets/foto3_1785676622543.jpg",
+        "assets/foto4_1785676622543.jpg",
+        "assets/foto5_1785676622543.jpg",
+        "assets/foto6_1785676622543.jpg",
+        "assets/foto7_1785676622543.jpg",
+        "assets/foto8_1785676622543.jpg",
+        "assets/foto9_1785676622543.jpg",
+        "assets/foto10_1785676622543.jpg",
+        "assets/foto11_1785676622543.jpg",
+        "assets/foto12_1785676622543.jpg"
       ]
     },
     {
@@ -150,7 +150,7 @@ window.config = {
     "lembrete": false
   },
   "config": {
-    "exibirMarcaDagua": true,
+    "exibirMarcaDagua": false,
     "cronometro": true,
     "buttonColor": "#0b5d3b",
     "buttonGradientColor": "#ec4899",
