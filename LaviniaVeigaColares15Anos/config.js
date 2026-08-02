@@ -14,50 +14,50 @@ window.config = {
   "convite": {
     "paletaCores": "Roxo, lilás, branco e dourado",
     "tema": "Jardim das Borboletas",
-    "musica": "assets/music_1785685486855.mp3",
+    "musica": "assets/music_1785686126627.mp3",
     "tipoAbertura": "longa",
     "particulasAbertura": true,
     "slug": "LaviniaVeigaColares15Anos",
     "seo": {
-      "pageTitle": "",
+      "pageTitle": "Convite Especial",
       "ogTitle": "Você recebeu um convite especial!",
       "ogDescription": "Embarque nessa noite mágica. Clique para ver os detalhes."
     }
   },
   "assets": {
-    "capa": "assets/cover_1785685486855.jpg",
-    "cartao": "assets/cartao_chatgpt_1785685486855.jpg",
+    "capa": "assets/cover_1785686126627.jpg",
+    "cartao": "assets/cartao_chatgpt_1785686126627.jpg",
     "aberturaSlides": [
-      "assets/slide1_1785685486855.mp4",
-      "assets/slide2_1785685486855.jpg",
-      "assets/slide3_1785685486855.mp4",
-      "assets/slide4_1785685486855.jpg"
+      "assets/slide1_1785686126627.mp4",
+      "assets/slide2_1785686126627.jpg",
+      "assets/slide3_1785686126627.mp4",
+      "assets/slide4_1785686126627.jpg"
     ],
     "aberturaSlidesMeta": [
       {
-        "filePath": "assets/slide1_1785685486855.mp4",
+        "filePath": "assets/slide1_1785686126627.mp4",
         "label": "Abertura (Video)",
         "type": "video"
       },
       {
-        "filePath": "assets/slide2_1785685486855.jpg",
+        "filePath": "assets/slide2_1785686126627.jpg",
         "label": "Convite Especial",
         "type": "image"
       },
       {
-        "filePath": "assets/slide3_1785685486855.mp4",
+        "filePath": "assets/slide3_1785686126627.mp4",
         "label": "Cena Tematica",
         "type": "video"
       },
       {
-        "filePath": "assets/slide4_1785685486855.jpg",
+        "filePath": "assets/slide4_1785686126627.jpg",
         "label": "Prepare-se",
         "type": "image"
       }
     ],
-    "folhaVazia": "assets/folha_vazia_1785685486855.jpg",
-    "folhaPreenchida": "assets/folha_1785685486855.jpg",
-    "musica": "assets/music_1785685486855.mp3",
+    "folhaVazia": "assets/folha_vazia_1785686126627.jpg",
+    "folhaPreenchida": "assets/folha_1785686126627.jpg",
+    "musica": "assets/music_1785686126627.mp3",
     "musicStartSec": 0,
     "musicEndSec": null,
     "fabric": {
@@ -132,7 +132,7 @@ window.config = {
       "tipoVisual": "css",
       "titulo": "Manual do Convidado",
       "icone": "fa-solid fa-book-open",
-      "conteudo": "<link href=\"https://fonts.googleapis.com/css2?family=Cinzel:wght@400;500;600&family=Cormorant+Garamond:ital,wght@0,300;0,400;0,500;0,600;1,400&display=swap\" rel=\"stylesheet\">\n<link rel=\"stylesheet\" href=\"https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css\">\n<style>\n*{box-sizing:border-box;margin:0;padding:0}\n.mc-wrap{position:relative;padding:32px 18px 36px;overflow:hidden;font-family:'Cormorant Garamond',serif;background:linear-gradient(160deg,#faf7ff 0%,#eee4fa 45%,#fffdfd 100%)}\n.mc-header{text-align:center;margin-bottom:10px}.mc-crown{font-size:28px;display:block;margin-bottom:6px}.mc-header h2{font-family:'Cinzel',serif;font-size:22px;color:#4b236b;letter-spacing:.12em;margin-bottom:5px}.mc-header p{color:#80629a;font-size:15px;font-style:italic}.mc-sub{text-align:center;margin-bottom:24px;font-size:13px;color:#9a78b5;font-family:'Cinzel',serif;letter-spacing:.12em;text-transform:uppercase}.mc-grid{display:grid;gap:12px}.mc-card,.mc-confirm{border-radius:20px;background:rgba(255,255,255,.84);border:1px solid rgba(132,86,163,.22);box-shadow:0 2px 16px rgba(91,42,125,.08);overflow:hidden}.mc-top{display:flex;align-items:center;gap:13px;padding:15px}.mc-icon,.mc-confirm-icon{width:46px;height:46px;border-radius:14px;flex-shrink:0;display:flex;align-items:center;justify-content:center;background:linear-gradient(145deg,#b998d5,#6d3d91);color:#fff;font-size:18px}.mc-title,.mc-confirm-title{font-family:'Cinzel',serif;font-size:11.5px;letter-spacing:.14em;text-transform:uppercase;color:#70448b;margin-bottom:3px}.mc-text{font-size:15px;line-height:1.6;color:#432650}.mc-highlight{color:#6d3d91;font-weight:600}.mc-divider{height:.5px;margin:0 15px;background:linear-gradient(to right,transparent,rgba(132,86,163,.3),transparent)}.mc-body{padding:11px 15px 15px}.mc-note{margin-top:11px;padding:10px 13px;border-radius:14px;background:rgba(205,177,225,.2);border:1px solid rgba(132,86,163,.22);font-size:13.5px;color:#603878;font-style:italic;line-height:1.55}.mc-confirm{margin-top:14px;padding:16px}.mc-confirm-top{display:flex;align-items:center;gap:12px;margin-bottom:11px}.mc-confirm-sub{font-size:13px;color:#80629a;font-style:italic}.mc-date-badge{display:flex;align-items:center;justify-content:center;gap:10px;background:linear-gradient(145deg,#eadcf3,#c9a9dc);border:1px solid rgba(132,86,163,.3);border-radius:14px;padding:11px 14px;font-family:'Cinzel',serif;font-size:15px;color:#4b236b;letter-spacing:.06em}.mc-confirm-note{margin-top:10px;font-size:13.5px;color:#603878;font-style:italic;line-height:1.55;text-align:center}.mc-flower{position:absolute;color:#b998d5;opacity:.18;font-size:90px;pointer-events:none}.mc-flower.one{top:-18px;left:-12px}.mc-flower.two{bottom:-20px;right:-10px;font-size:75px}\n</style>\n<div class=\"mc-wrap\">\n<i class=\"mc-flower one\">✿</i><i class=\"mc-flower two\">✿</i>\n<div class=\"mc-header\"><span class=\"mc-crown\">🦋</span><h2>Manual do Convidado</h2><p>Jardim das Borboletas</p></div>\n<div class=\"mc-sub\">✦ &nbsp; com carinho &nbsp; ✦</div>\n<div class=\"mc-grid\">\n<div class=\"mc-card\"><div class=\"mc-top\"><div class=\"mc-icon\"><i class=\"fa-solid fa-clock\"></i></div><div><div class=\"mc-title\">Chegue no horário</div><div class=\"mc-text\">Sua presença pontual é muito importante para nós.</div></div></div></div>\n<div class=\"mc-card\"><div class=\"mc-top\"><div class=\"mc-icon\"><i class=\"fa-solid fa-calendar-check\"></i></div><div><div class=\"mc-title\">Confirme sua presença</div><div class=\"mc-text\">Por favor, confirme presença pelo menos 15 dias antes do evento.</div></div></div></div>\n<div class=\"mc-card\"><div class=\"mc-top\"><div class=\"mc-icon\"><i class=\"fa-solid fa-users-slash\"></i></div><div><div class=\"mc-title\">Orientação</div><div class=\"mc-text\">Convidado não convida!</div></div></div></div>\n<div class=\"mc-card\"><div class=\"mc-top\"><div class=\"mc-icon\"><i class=\"fa-solid fa-heart\"></i></div><div><div class=\"mc-title\">Aproveite bastante</div><div class=\"mc-text\">Divirta-se bastante! Estamos ansiosos para celebrar este momento especial com você.</div></div></div></div>\n<div class=\"mc-card\"><div class=\"mc-top\"><div class=\"mc-icon\"><i class=\"fa-solid fa-cake-candles\"></i></div><div><div class=\"mc-title\">Um abraço especial</div><div class=\"mc-text\">Não vá embora sem me dar um abraço e comer um pedaço do bolo. Queremos compartilhar cada instante com você.</div></div></div></div>\n</div>\n<div class=\"mc-confirm\"><div class=\"mc-confirm-top\"><div class=\"mc-confirm-icon\"><i class=\"fa-solid fa-party-horn\"></i></div><div><div class=\"mc-confirm-title\">Lavínia Veiga Colares</div><div class=\"mc-confirm-sub\">15 anos</div></div></div><div class=\"mc-date-badge\"><i class=\"fa-solid fa-calendar-days\"></i> 17 de outubro de 2026</div></div>\n</div>"
+      "conteudo": "<link href=\"https://fonts.googleapis.com/css2?family=Cinzel:wght@400;500;600&family=Cormorant+Garamond:ital,wght@0,300;0,400;0,500;0,600;1,400&display=swap\" rel=\"stylesheet\">\n<link rel=\"stylesheet\" href=\"https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css\">\n<style>\n*{box-sizing:border-box;margin:0;padding:0}\n.mc-wrap{position:relative;padding:32px 18px 36px;overflow:hidden;font-family:'Cormorant Garamond',serif;background:linear-gradient(160deg,#faf7ff 0%,#eee4fa 45%,#fffdfd 100%)}\n.mc-header{text-align:center;margin-bottom:10px}.mc-crown{font-size:28px;display:block;margin-bottom:6px}.mc-header h2{font-family:'Cinzel',serif;font-size:22px;color:#4b236b;letter-spacing:.12em;margin-bottom:5px}.mc-header p{color:#80629a;font-size:15px;font-style:italic}.mc-sub{text-align:center;margin-bottom:24px;font-size:13px;color:#9a78b5;font-family:'Cinzel',serif;letter-spacing:.12em;text-transform:uppercase}.mc-grid{display:grid;gap:12px}.mc-card,.mc-confirm{border-radius:20px;background:rgba(255,255,255,.84);border:1px solid rgba(132,86,163,.22);box-shadow:0 2px 16px rgba(91,42,125,.08);overflow:hidden}.mc-top{display:flex;align-items:center;gap:13px;padding:15px}.mc-icon,.mc-confirm-icon{width:46px;height:46px;border-radius:14px;flex-shrink:0;display:flex;align-items:center;justify-content:center;background:linear-gradient(145deg,#b998d5,#6d3d91);color:#fff;font-size:18px}.mc-title,.mc-confirm-title{font-family:'Cinzel',serif;font-size:11.5px;letter-spacing:.14em;text-transform:uppercase;color:#70448b;margin-bottom:3px}.mc-text{font-size:15px;line-height:1.6;color:#432650}.mc-highlight{color:#6d3d91;font-weight:600}.mc-divider{height:.5px;margin:0 15px;background:linear-gradient(to right,transparent,rgba(132,86,163,.3),transparent)}.mc-body{padding:11px 15px 15px}.mc-note{margin-top:11px;padding:10px 13px;border-radius:14px;background:rgba(205,177,225,.2);border:1px solid rgba(132,86,163,.22);font-size:13.5px;color:#603878;font-style:italic;line-height:1.55}.mc-confirm{margin-top:14px;padding:16px}.mc-confirm-top{display:flex;align-items:center;gap:12px;margin-bottom:11px}.mc-confirm-sub{font-size:13px;color:#80629a;font-style:italic}.mc-date-badge{display:flex;align-items:center;justify-content:center;gap:10px;background:linear-gradient(145deg,#eadcf3,#c9a9dc);border:1px solid rgba(132,86,163,.3);border-radius:14px;padding:11px 14px;font-family:'Cinzel',serif;font-size:15px;color:#4b236b;letter-spacing:.06em}.mc-confirm-note{margin-top:10px;font-size:13.5px;color:#603878;font-style:italic;line-height:1.55;text-align:center}.mc-flower{position:absolute;color:#b998d5;opacity:.18;font-size:90px;pointer-events:none}.mc-flower.one{top:-18px;left:-12px}.mc-flower.two{bottom:-20px;right:-10px;font-size:75px}\n</style>\n<div class=\"mc-wrap\">\n<i class=\"mc-flower one\">✿</i><i class=\"mc-flower two\">✿</i>\n<div class=\"mc-header\"><span class=\"mc-crown\">🦋</span><h2>Manual do Convidado</h2><p>Jardim das Borboletas</p></div>\n<div class=\"mc-sub\">✦ &nbsp; com carinho &nbsp; ✦</div>\n<div class=\"mc-grid\">\n<div class=\"mc-card\"><div class=\"mc-top\"><div class=\"mc-icon\"><i class=\"fa-solid fa-clock\"></i></div><div><div class=\"mc-title\">Chegue no horário</div><div class=\"mc-text\">Sua presença pontual é muito importante para nós.</div></div></div></div>\n<div class=\"mc-card\"><div class=\"mc-top\"><div class=\"mc-icon\"><i class=\"fa-solid fa-calendar-check\"></i></div><div><div class=\"mc-title\">Confirme sua presença</div><div class=\"mc-text\">Por favor, confirme presença pelo menos 5 dias antes do evento.</div></div></div></div>\n<div class=\"mc-card\"><div class=\"mc-top\"><div class=\"mc-icon\"><i class=\"fa-solid fa-users-slash\"></i></div><div><div class=\"mc-title\">Orientação</div><div class=\"mc-text\">Convidado não convida!</div></div></div></div>\n<div class=\"mc-card\"><div class=\"mc-top\"><div class=\"mc-icon\"><i class=\"fa-solid fa-heart\"></i></div><div><div class=\"mc-title\">Aproveite bastante</div><div class=\"mc-text\">Divirta-se bastante! Estamos ansiosos para celebrar este momento especial com você.</div></div></div></div>\n<div class=\"mc-card\"><div class=\"mc-top\"><div class=\"mc-icon\"><i class=\"fa-solid fa-cake-candles\"></i></div><div><div class=\"mc-title\">Um abraço especial</div><div class=\"mc-text\">Não vá embora sem me dar um abraço e comer um pedaço do bolo. Queremos compartilhar cada instante com você.</div></div></div></div>\n</div>\n<div class=\"mc-confirm\"><div class=\"mc-confirm-top\"><div class=\"mc-confirm-icon\"><i class=\"fa-solid fa-party-horn\"></i></div><div><div class=\"mc-confirm-title\">Lavínia Veiga Colares</div><div class=\"mc-confirm-sub\">15 anos</div></div></div><div class=\"mc-date-badge\"><i class=\"fa-solid fa-calendar-days\"></i> 17 de outubro de 2026</div></div>\n</div>"
     },
     {
       "id": "btn_8077780ee88bc326",
