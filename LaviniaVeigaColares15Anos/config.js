@@ -14,7 +14,7 @@ window.config = {
   "convite": {
     "paletaCores": "Roxo, lilás, branco e dourado",
     "tema": "Jardim das Borboletas",
-    "musica": "assets/music_1785687037033.mp3",
+    "musica": "assets/music_1785688028388.mp3",
     "tipoAbertura": "longa",
     "particulasAbertura": true,
     "slug": "LaviniaVeigaColares15Anos",
@@ -25,39 +25,39 @@ window.config = {
     }
   },
   "assets": {
-    "capa": "assets/cover_1785687037033.jpg",
-    "cartao": "assets/cartao_chatgpt_1785687037033.jpg",
+    "capa": "assets/cover_1785688028388.jpg",
+    "cartao": "assets/cartao_chatgpt_1785688028388.jpg",
     "aberturaSlides": [
-      "assets/slide1_1785687037033.mp4",
-      "assets/slide2_1785687037033.jpg",
-      "assets/slide3_1785687037033.mp4",
-      "assets/slide4_1785687037033.jpg"
+      "assets/slide1_1785688028388.mp4",
+      "assets/slide2_1785688028388.jpg",
+      "assets/slide3_1785688028388.mp4",
+      "assets/slide4_1785688028388.jpg"
     ],
     "aberturaSlidesMeta": [
       {
-        "filePath": "assets/slide1_1785687037033.mp4",
+        "filePath": "assets/slide1_1785688028388.mp4",
         "label": "Abertura (Video)",
         "type": "video"
       },
       {
-        "filePath": "assets/slide2_1785687037033.jpg",
+        "filePath": "assets/slide2_1785688028388.jpg",
         "label": "Convite Especial",
         "type": "image"
       },
       {
-        "filePath": "assets/slide3_1785687037033.mp4",
+        "filePath": "assets/slide3_1785688028388.mp4",
         "label": "Cena Tematica",
         "type": "video"
       },
       {
-        "filePath": "assets/slide4_1785687037033.jpg",
+        "filePath": "assets/slide4_1785688028388.jpg",
         "label": "Slide 1",
         "type": "video"
       }
     ],
-    "folhaVazia": "assets/folha_vazia_1785687037033.jpg",
-    "folhaPreenchida": "assets/folha_1785687037033.jpg",
-    "musica": "assets/music_1785687037033.mp3",
+    "folhaVazia": "assets/folha_vazia_1785688028388.jpg",
+    "folhaPreenchida": "assets/folha_1785688028388.jpg",
+    "musica": "assets/music_1785688028388.mp3",
     "musicStartSec": 0,
     "musicEndSec": null,
     "fabric": {
@@ -140,7 +140,7 @@ window.config = {
       "tipoVisual": "css",
       "titulo": "Dicas de Presente",
       "icone": "fa-solid fa-gift",
-      "conteudo": "assets/popup_botao_5_1785687037033.jpg"
+      "conteudo": "assets/popup_botao_5_1785688028388.jpg"
     }
   ],
   "upsell": {
@@ -149,7 +149,7 @@ window.config = {
     "lembrete": false
   },
   "config": {
-    "exibirMarcaDagua": false,
+    "exibirMarcaDagua": true,
     "cronometro": true,
     "buttonColor": "#5b2a86",
     "buttonGradientColor": "#ec4899",
