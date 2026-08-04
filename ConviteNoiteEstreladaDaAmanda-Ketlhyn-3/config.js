@@ -14,8 +14,8 @@ window.config = {
   "convite": {
     "paletaCores": "Lilás, Preto e Prata",
     "tema": "Noite estrelada",
-    "musica": "assets/music_1785798769293.mp3",
-    "tipoAbertura": "curta",
+    "musica": "assets/music_1785802181225.mp3",
+    "tipoAbertura": "longa",
     "particulasAbertura": true,
     "slug": "ConviteNoiteEstreladaDaAmanda-Ketlhyn-3",
     "seo": {
@@ -25,21 +25,27 @@ window.config = {
     }
   },
   "assets": {
-    "capa": "assets/cover_1785798769293.jpg",
-    "cartao": "",
+    "capa": "assets/cover_1785802181225.jpg",
+    "cartao": "assets/cartao_chatgpt_1785802181225.jpg",
     "aberturaSlides": [
-      "assets/slide1_1785798769293.mp4"
+      "assets/slide1_1785802181225.mp4",
+      "assets/slide2_1785802181225.mp4"
     ],
     "aberturaSlidesMeta": [
       {
-        "filePath": "assets/slide1_1785798769293.mp4",
+        "filePath": "assets/slide1_1785802181225.mp4",
+        "label": "Slide 1",
+        "type": "video"
+      },
+      {
+        "filePath": "assets/slide2_1785802181225.mp4",
         "label": "Slide 1",
         "type": "video"
       }
     ],
     "folhaVazia": "",
-    "folhaPreenchida": "assets/folha_1785798769293.mp4",
-    "musica": "assets/music_1785798769293.mp3",
+    "folhaPreenchida": "assets/folha_1785802181225.mp4",
+    "musica": "assets/music_1785802181225.mp3",
     "musicStartSec": 0,
     "musicEndSec": null,
     "fabric": {
@@ -93,7 +99,7 @@ window.config = {
       "tipoVisual": "css",
       "titulo": "Presentes",
       "icone": "fa-solid fa-gift",
-      "conteudo": "assets/convitenoiteestreladadaamandaketlhyn_presentes_sem_prata_1785798769293.png"
+      "conteudo": "assets/convitenoiteestreladadaamandaketlhyn_presentes_sem_prata_1785802181225.png"
     }
   ],
   "upsell": {
