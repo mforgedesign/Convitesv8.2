@@ -14,7 +14,7 @@ window.config = {
   "convite": {
     "paletaCores": "Bege com Branco",
     "tema": "Casamento",
-    "musica": "assets/music_1785948879737.mp3",
+    "musica": "assets/music_1785949391002.mp3",
     "tipoAbertura": "curta",
     "particulasAbertura": true,
     "slug": "MarciaRegina&AlanHenrique",
@@ -25,22 +25,22 @@ window.config = {
     }
   },
   "assets": {
-    "capa": "assets/cover_1785948879737.png",
-    "cartao": "",
+    "capa": "assets/cover_1785949391002.png",
+    "cartao": "assets/cartao_chatgpt_1785949391002.jpg",
     "aberturaSlides": [
-      "assets/slide1_1785948879737.mp4"
+      "assets/slide1_1785949391002.mp4"
     ],
     "aberturaSlidesMeta": [
       {
-        "filePath": "assets/slide1_1785948879737.mp4",
+        "filePath": "assets/slide1_1785949391002.mp4",
         "label": "Abertura (Vídeo)",
         "type": "video"
       }
     ],
-    "folhaVazia": "assets/folha_vazia_1785948879737.png",
-    "folhaPreenchida": "assets/folha_1785948879737.jpg",
-    "musica": "assets/music_1785948879737.mp3",
-    "musicStartSec": 0,
+    "folhaVazia": "assets/folha_vazia_1785949391002.png",
+    "folhaPreenchida": "assets/folha_1785949391002.jpg",
+    "musica": "assets/music_1785949391002.mp3",
+    "musicStartSec": 62,
     "musicEndSec": null,
     "fabric": {
       "saveTheDate": {
