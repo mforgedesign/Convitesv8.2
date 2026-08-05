@@ -14,7 +14,7 @@ window.config = {
   "convite": {
     "paletaCores": "Rosa/Rosé",
     "tema": "Floral",
-    "musica": "assets/music_1785676885230.mp3",
+    "musica": "assets/music_1785947673345.mp3",
     "tipoAbertura": "longa",
     "particulasAbertura": true,
     "slug": "Melyssa15Anos",
@@ -25,39 +25,39 @@ window.config = {
     }
   },
   "assets": {
-    "capa": "assets/cover_1785676885230.png",
-    "cartao": "assets/cartao_chatgpt_1785676885230.jpg",
+    "capa": "assets/cover_1785947673345.png",
+    "cartao": "assets/cartao_chatgpt_1785947673345.jpg",
     "aberturaSlides": [
-      "assets/slide1_1785676885230.mp4",
-      "assets/slide2_1785676885230.jpg",
-      "assets/slide3_1785676885230.mp4",
-      "assets/slide4_1785676885230.mp4"
+      "assets/slide1_1785947673345.mp4",
+      "assets/slide2_1785947673345.jpg",
+      "assets/slide3_1785947673345.mp4",
+      "assets/slide4_1785947673345.mp4"
     ],
     "aberturaSlidesMeta": [
       {
-        "filePath": "assets/slide1_1785676885230.mp4",
+        "filePath": "assets/slide1_1785947673345.mp4",
         "label": "Abertura (Video)",
         "type": "video"
       },
       {
-        "filePath": "assets/slide2_1785676885230.jpg",
+        "filePath": "assets/slide2_1785947673345.jpg",
         "label": "Convite Especial",
         "type": "image"
       },
       {
-        "filePath": "assets/slide3_1785676885230.mp4",
+        "filePath": "assets/slide3_1785947673345.mp4",
         "label": "Cena Tematica",
         "type": "video"
       },
       {
-        "filePath": "assets/slide4_1785676885230.mp4",
+        "filePath": "assets/slide4_1785947673345.mp4",
         "label": "Slide 1",
         "type": "video"
       }
     ],
-    "folhaVazia": "assets/folha_vazia_1785676885230.jpg",
-    "folhaPreenchida": "assets/folha_1785676885230.jpg",
-    "musica": "assets/music_1785676885230.mp3",
+    "folhaVazia": "assets/folha_vazia_1785947673345.jpg",
+    "folhaPreenchida": "assets/folha_1785947673345.png",
+    "musica": "assets/music_1785947673345.mp3",
     "musicStartSec": 0,
     "musicEndSec": null,
     "fabric": {
@@ -94,16 +94,11 @@ window.config = {
     },
     {
       "id": "btn_dc71b13d-0622-4cab-90d5-69e5b308a755",
-      "tipoAcao": "RSVP",
+      "tipoAcao": "PopupHtml",
       "tipoVisual": "css",
       "titulo": "Confirmar Presença",
       "icone": "fa-solid fa-check",
-      "whatsapp": "5511965507194",
-      "rsvpConfig": {
-        "exibirNome": true,
-        "exibirWhatsapp": false,
-        "exibirAcompanhantes": false
-      }
+      "conteudo": "<link href=\"https://fonts.googleapis.com/css2?family=Cinzel:wght@400;500;600&family=Cormorant+Garamond:ital,wght@0,300;0,400;0,500;0,600;1,400&display=swap\" rel=\"stylesheet\">\n\n<link rel=\"stylesheet\" href=\"https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css\">\n\n<style>\n*{\n  box-sizing:border-box;\n  margin:0;\n  padding:0;\n}\n\n.rsvp-wrap{\n  position:relative;\n  max-width:620px;\n  margin:0 auto;\n  padding:34px 18px 38px;\n  overflow:hidden;\n  font-family:'Cormorant Garamond',serif;\n  background:linear-gradient(\n    160deg,\n    #fff7fa 0%,\n    #f9e5ed 45%,\n    #fff3f7 100%\n  );\n}\n\n.rsvp-header{\n  position:relative;\n  z-index:2;\n  margin-bottom:10px;\n  text-align:center;\n}\n\n.rsvp-symbol{\n  display:block;\n  margin-bottom:7px;\n  color:#b87591;\n  font-size:27px;\n  animation:rsvpFloat 4s ease-in-out infinite;\n}\n\n@keyframes rsvpFloat{\n  0%,100%{\n    transform:translateY(0);\n  }\n\n  50%{\n    transform:translateY(-5px);\n  }\n}\n\n.rsvp-header h2{\n  margin-bottom:5px;\n  font-family:'Cinzel',serif;\n  font-size:22px;\n  font-weight:500;\n  letter-spacing:.15em;\n  text-transform:uppercase;\n  color:#8b3f5d;\n}\n\n.rsvp-header p{\n  font-size:16px;\n  font-style:italic;\n  color:#b87591;\n}\n\n.rsvp-date{\n  position:relative;\n  z-index:2;\n  margin-bottom:23px;\n  text-align:center;\n  font-family:'Cinzel',serif;\n  font-size:11px;\n  letter-spacing:.13em;\n  text-transform:uppercase;\n  color:#a15776;\n}\n\n.rsvp-date::before,\n.rsvp-date::after{\n  content:'';\n  display:inline-block;\n  width:35px;\n  height:1px;\n  margin:0 9px;\n  vertical-align:middle;\n  background:linear-gradient(\n    to right,\n    transparent,\n    rgba(190,110,140,.45)\n  );\n}\n\n.rsvp-date::after{\n  background:linear-gradient(\n    to left,\n    transparent,\n    rgba(190,110,140,.45)\n  );\n}\n\n.rsvp-card{\n  position:relative;\n  z-index:2;\n  overflow:hidden;\n  padding:22px 17px 18px;\n  border:1px solid rgba(190,110,140,.24);\n  border-radius:22px;\n  background:rgba(255,255,255,.88);\n  box-shadow:0 4px 24px rgba(160,70,100,.10);\n  animation:rsvpFade .65s ease both;\n}\n\n@keyframes rsvpFade{\n  from{\n    opacity:0;\n    transform:translateY(12px);\n  }\n\n  to{\n    opacity:1;\n    transform:translateY(0);\n  }\n}\n\n.rsvp-intro{\n  margin-bottom:19px;\n  text-align:center;\n}\n\n.rsvp-icon{\n  display:flex;\n  align-items:center;\n  justify-content:center;\n  width:49px;\n  height:49px;\n  margin:0 auto 11px;\n  border-radius:15px;\n  background:linear-gradient(145deg,#e9a9bd,#c87596);\n  box-shadow:0 3px 12px rgba(180,90,120,.24);\n  color:#fff;\n  font-size:19px;\n}\n\n.rsvp-intro h3{\n  margin-bottom:7px;\n  font-family:'Cinzel',serif;\n  font-size:13px;\n  font-weight:500;\n  letter-spacing:.12em;\n  text-transform:uppercase;\n  color:#8b3f5d;\n}\n\n.rsvp-intro p{\n  max-width:460px;\n  margin:0 auto;\n  font-size:16px;\n  line-height:1.55;\n  color:#633b4a;\n}\n\n.rsvp-divider{\n  width:100%;\n  height:1px;\n  margin-bottom:18px;\n  background:linear-gradient(\n    to right,\n    transparent,\n    rgba(190,110,140,.3),\n    transparent\n  );\n}\n\n.rsvp-field{\n  margin-bottom:15px;\n}\n\n.rsvp-field label{\n  display:block;\n  margin:0 0 6px 3px;\n  font-family:'Cinzel',serif;\n  font-size:10.5px;\n  letter-spacing:.11em;\n  text-transform:uppercase;\n  color:#9b4568;\n}\n\n.rsvp-field label i{\n  width:18px;\n  color:#c87596;\n}\n\n.rsvp-field input{\n  width:100%;\n  height:48px;\n  padding:0 14px;\n  outline:none;\n  border:1px solid rgba(190,110,140,.28);\n  border-radius:14px;\n  background:#fffafb;\n  font-family:'Cormorant Garamond',serif;\n  font-size:16px;\n  color:#633b4a;\n  transition:border-color .25s ease,box-shadow .25s ease;\n}\n\n.rsvp-field input::placeholder{\n  color:#bd91a2;\n}\n\n.rsvp-field input:focus{\n  border-color:#c87596;\n  box-shadow:0 0 0 3px rgba(200,117,150,.12);\n}\n\n.rsvp-quantities{\n  display:grid;\n  grid-template-columns:1fr 1fr;\n  gap:11px;\n}\n\n.rsvp-help{\n  display:block;\n  margin:5px 2px 0;\n  font-size:12.5px;\n  font-style:italic;\n  color:#a8788b;\n}\n\n.rsvp-total{\n  display:flex;\n  align-items:center;\n  justify-content:space-between;\n  gap:10px;\n  margin:4px 0 16px;\n  padding:11px 13px;\n  border:1px solid rgba(190,110,140,.20);\n  border-radius:14px;\n  background:rgba(235,180,200,.16);\n}\n\n.rsvp-total span{\n  font-size:14px;\n  color:#783d56;\n}\n\n.rsvp-total strong{\n  font-family:'Cinzel',serif;\n  font-size:12px;\n  letter-spacing:.08em;\n  color:#9b4568;\n}\n\n.rsvp-error{\n  display:none;\n  margin-bottom:12px;\n  padding:9px 12px;\n  border:1px solid rgba(175,65,90,.24);\n  border-radius:12px;\n  background:rgba(255,225,230,.7);\n  color:#8b3f5d;\n  font-size:13.5px;\n  text-align:center;\n}\n\n.rsvp-button{\n  display:flex;\n  align-items:center;\n  justify-content:center;\n  gap:9px;\n  width:100%;\n  min-height:51px;\n  padding:12px 15px;\n  border:none;\n  border-radius:16px;\n  background:linear-gradient(145deg,#e19ab4,#b95f83);\n  box-shadow:0 4px 16px rgba(180,90,120,.28);\n  color:#fff;\n  cursor:pointer;\n  font-family:'Cinzel',serif;\n  font-size:11.5px;\n  font-weight:500;\n  letter-spacing:.1em;\n  text-align:center;\n  text-transform:uppercase;\n  transition:transform .2s ease,box-shadow .2s ease;\n}\n\n.rsvp-button:hover{\n  transform:translateY(-2px);\n  box-shadow:0 7px 20px rgba(180,90,120,.35);\n}\n\n.rsvp-button:active{\n  transform:translateY(0);\n}\n\n.rsvp-button i{\n  font-size:20px;\n}\n\n.rsvp-note{\n  position:relative;\n  z-index:2;\n  margin-top:14px;\n  padding:13px 16px;\n  border:1px solid rgba(190,110,140,.22);\n  border-radius:18px;\n  background:rgba(255,255,255,.65);\n  text-align:center;\n  font-size:14px;\n  font-style:italic;\n  line-height:1.5;\n  color:#8b3f5d;\n}\n\n.rsvp-footer{\n  position:relative;\n  z-index:2;\n  margin-top:15px;\n  text-align:center;\n  font-size:14px;\n  color:#a15776;\n}\n\n.rsvp-footer strong{\n  font-family:'Cinzel',serif;\n  font-size:10.5px;\n  font-weight:500;\n  letter-spacing:.12em;\n  text-transform:uppercase;\n}\n\n.rsvp-star{\n  position:absolute;\n  color:rgba(190,110,140,.5);\n  font-size:11px;\n  pointer-events:none;\n  animation:rsvpStar 3s ease-in-out infinite;\n}\n\n@keyframes rsvpStar{\n  0%,100%{\n    opacity:0;\n    transform:scale(0);\n  }\n\n  50%{\n    opacity:1;\n    transform:scale(1);\n  }\n}\n\n@media(max-width:480px){\n  .rsvp-quantities{\n    grid-template-columns:1fr;\n  }\n\n  .rsvp-header h2{\n    font-size:19px;\n  }\n\n  .rsvp-date::before,\n  .rsvp-date::after{\n    width:22px;\n    margin:0 6px;\n  }\n}\n</style>\n\n<div class=\"rsvp-wrap\" id=\"confirmacao-melyssa\">\n\n  <i class=\"rsvp-star\" style=\"top:8%;left:8%;\">✦</i>\n\n  <i\n    class=\"rsvp-star\"\n    style=\"top:17%;right:12%;animation-delay:1.1s;\"\n  >✧</i>\n\n  <i\n    class=\"rsvp-star\"\n    style=\"bottom:15%;left:10%;animation-delay:2s;\"\n  >✦</i>\n\n  <i\n    class=\"rsvp-star\"\n    style=\"bottom:7%;right:10%;animation-delay:.6s;\"\n  >✧</i>\n\n  <div class=\"rsvp-header\">\n    <span class=\"rsvp-symbol\">✦</span>\n    <h2>Confirmação de Presença</h2>\n    <p>Melyssa XV</p>\n  </div>\n\n  <div class=\"rsvp-date\">\n    06 de outubro de 2026\n  </div>\n\n  <div class=\"rsvp-card\">\n\n    <div class=\"rsvp-intro\">\n\n      <div class=\"rsvp-icon\">\n        <i class=\"fa-solid fa-envelope-open-text\"></i>\n      </div>\n\n      <h3>Você estará conosco?</h3>\n\n      <p>\n        Preencha os dados abaixo e envie sua confirmação\n        diretamente pelo WhatsApp.\n      </p>\n\n    </div>\n\n    <div class=\"rsvp-divider\"></div>\n\n    <div class=\"rsvp-field\">\n\n      <label for=\"rsvp-nome\">\n        <i class=\"fa-solid fa-user\"></i>\n        Nome do convidado ou família\n      </label>\n\n      <input\n        type=\"text\"\n        id=\"rsvp-nome\"\n        placeholder=\"Digite seu nome completo\"\n        autocomplete=\"name\"\n        oninput=\"\n          document.getElementById('rsvp-error').style.display='none';\n        \"\n      >\n\n    </div>\n\n    <div class=\"rsvp-quantities\">\n\n      <div class=\"rsvp-field\">\n\n        <label for=\"rsvp-adultos\">\n          <i class=\"fa-solid fa-user-group\"></i>\n          Adultos\n        </label>\n\n        <input\n          type=\"number\"\n          id=\"rsvp-adultos\"\n          min=\"0\"\n          max=\"20\"\n          value=\"0\"\n          inputmode=\"numeric\"\n          oninput=\"\n            var adultos = Math.max(0, parseInt(this.value) || 0);\n            var criancas = Math.max(\n              0,\n              parseInt(document.getElementById('rsvp-criancas').value) || 0\n            );\n\n            var total = adultos + criancas;\n\n            document.getElementById('rsvp-total').textContent =\n              total === 1 ? '1 pessoa' : total + ' pessoas';\n\n            document.getElementById('rsvp-error').style.display = 'none';\n          \"\n        >\n\n        <small class=\"rsvp-help\">\n          Inclua você na quantidade.\n        </small>\n\n      </div>\n\n      <div class=\"rsvp-field\">\n\n        <label for=\"rsvp-criancas\">\n          <i class=\"fa-solid fa-child-reaching\"></i>\n          Crianças\n        </label>\n\n        <input\n          type=\"number\"\n          id=\"rsvp-criancas\"\n          min=\"0\"\n          max=\"20\"\n          value=\"0\"\n          inputmode=\"numeric\"\n          oninput=\"\n            var adultos = Math.max(\n              0,\n              parseInt(document.getElementById('rsvp-adultos').value) || 0\n            );\n\n            var criancas = Math.max(0, parseInt(this.value) || 0);\n            var total = adultos + criancas;\n\n            document.getElementById('rsvp-total').textContent =\n              total === 1 ? '1 pessoa' : total + ' pessoas';\n\n            document.getElementById('rsvp-error').style.display = 'none';\n          \"\n        >\n\n        <small class=\"rsvp-help\">\n          Informe apenas as crianças.\n        </small>\n\n      </div>\n\n    </div>\n\n    <div class=\"rsvp-total\">\n\n      <span>Total de convidados confirmados:</span>\n\n      <strong id=\"rsvp-total\">\n        0 pessoas\n      </strong>\n\n    </div>\n\n    <div class=\"rsvp-error\" id=\"rsvp-error\">\n      Preencha seu nome e informe pelo menos uma pessoa.\n    </div>\n\n    <button\n      type=\"button\"\n      class=\"rsvp-button\"\n      onclick=\"\n        var nome =\n          document.getElementById('rsvp-nome').value.trim();\n\n        var adultos = Math.max(\n          0,\n          parseInt(document.getElementById('rsvp-adultos').value) || 0\n        );\n\n        var criancas = Math.max(\n          0,\n          parseInt(document.getElementById('rsvp-criancas').value) || 0\n        );\n\n        var total = adultos + criancas;\n        var erro = document.getElementById('rsvp-error');\n\n        if(nome === ''){\n          erro.textContent =\n            'Por favor, informe o nome do convidado ou da família.';\n\n          erro.style.display = 'block';\n          document.getElementById('rsvp-nome').focus();\n          return;\n        }\n\n        if(total < 1){\n          erro.textContent =\n            'Informe pelo menos uma pessoa para confirmar a presença.';\n\n          erro.style.display = 'block';\n          document.getElementById('rsvp-adultos').focus();\n          return;\n        }\n\n        erro.style.display = 'none';\n\n        var textoAdultos =\n          adultos === 1\n            ? '1 adulto'\n            : adultos + ' adultos';\n\n        var textoCriancas =\n          criancas === 1\n            ? '1 criança'\n            : criancas + ' crianças';\n\n        var textoTotal =\n          total === 1\n            ? '1 pessoa'\n            : total + ' pessoas';\n\n        var mensagem =\n          'Olá! Gostaria de confirmar presença nos 15 anos da Melyssa. 💗' +\n          '\\n\\n👤 Nome: ' + nome +\n          '\\n🧑 Adultos: ' + textoAdultos +\n          '\\n👧 Crianças: ' + textoCriancas +\n          '\\n✨ Total confirmado: ' + textoTotal +\n          '\\n\\nAgradeço pelo convite!';\n\n        var linkWhatsApp =\n          'https://wa.me/5511965507194?text=' +\n          encodeURIComponent(mensagem);\n\n        window.location.href = linkWhatsApp;\n      \"\n    >\n      <i class=\"fa-brands fa-whatsapp\"></i>\n      Confirmar pelo WhatsApp\n    </button>\n\n  </div>\n\n  <div class=\"rsvp-note\">\n    Ao tocar no botão, uma mensagem será preparada automaticamente.\n    Basta conferir os dados e enviá-la pelo WhatsApp.\n  </div>\n\n  <div class=\"rsvp-footer\">\n    <strong>Com carinho, família da Melyssa</strong>\n  </div>\n\n</div>"
     },
     {
       "id": "btn_4ce7c9357ea45730",
