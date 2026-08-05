@@ -14,7 +14,7 @@ window.config = {
   "convite": {
     "paletaCores": "Bege com Branco",
     "tema": "Casamento",
-    "musica": "assets/music_1785948762299.mp3",
+    "musica": "assets/music_1785948879737.mp3",
     "tipoAbertura": "curta",
     "particulasAbertura": true,
     "slug": "MarciaRegina&AlanHenrique",
@@ -25,21 +25,21 @@ window.config = {
     }
   },
   "assets": {
-    "capa": "assets/cover_1785948762299.png",
+    "capa": "assets/cover_1785948879737.png",
     "cartao": "",
     "aberturaSlides": [
-      "assets/slide1_1785948762299.mp4"
+      "assets/slide1_1785948879737.mp4"
     ],
     "aberturaSlidesMeta": [
       {
-        "filePath": "assets/slide1_1785948762299.mp4",
+        "filePath": "assets/slide1_1785948879737.mp4",
         "label": "Abertura (Vídeo)",
         "type": "video"
       }
     ],
-    "folhaVazia": "assets/folha_vazia_1785948762299.png",
-    "folhaPreenchida": "assets/folha_1785948762299.jpg",
-    "musica": "assets/music_1785948762299.mp3",
+    "folhaVazia": "assets/folha_vazia_1785948879737.png",
+    "folhaPreenchida": "assets/folha_1785948879737.jpg",
+    "musica": "assets/music_1785948879737.mp3",
     "musicStartSec": 0,
     "musicEndSec": null,
     "fabric": {
