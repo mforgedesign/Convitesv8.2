@@ -14,7 +14,7 @@ window.config = {
   "convite": {
     "paletaCores": "Azul",
     "tema": "Cinderela",
-    "musica": "assets/music_1786040358140.mp3",
+    "musica": "assets/music_1786113700681.mp3",
     "tipoAbertura": "curta",
     "particulasAbertura": true,
     "slug": "Nicolly15Anos",
@@ -25,21 +25,21 @@ window.config = {
     }
   },
   "assets": {
-    "capa": "assets/cover_1786040358140.jpg",
-    "cartao": "assets/1dce9710_44fe_4b65_a11c_f0e84386bedb_1786040358140.png",
+    "capa": "assets/cover_1786113700681.jpg",
+    "cartao": "assets/1dce9710_44fe_4b65_a11c_f0e84386bedb_1786113700681.png",
     "aberturaSlides": [
-      "assets/slide1_1786040358140.mp4"
+      "assets/slide1_1786113700681.mp4"
     ],
     "aberturaSlidesMeta": [
       {
-        "filePath": "assets/slide1_1786040358140.mp4",
+        "filePath": "assets/slide1_1786113700681.mp4",
         "label": "Slide 1",
         "type": "video"
       }
     ],
-    "folhaVazia": "assets/folha_vazia_1786040358140.png",
-    "folhaPreenchida": "assets/folha_1786040358140.jpg",
-    "musica": "assets/music_1786040358140.mp3",
+    "folhaVazia": "assets/folha_vazia_1786113700681.png",
+    "folhaPreenchida": "assets/folha_1786113700681.jpg",
+    "musica": "assets/music_1786113700681.mp3",
     "musicStartSec": 0,
     "musicEndSec": null,
     "fabric": {
@@ -82,7 +82,7 @@ window.config = {
       "tipoVisual": "css",
       "titulo": "Manual do Convidado",
       "icone": "fa-solid fa-book-open",
-      "conteudo": "assets/popup_botao_1_1786040358140.jpg"
+      "conteudo": "assets/popup_botao_1_1786113700681.jpg"
     },
     {
       "id": "btn_123e798b-2d0d-4e60-a5c8-363617f1d130",
