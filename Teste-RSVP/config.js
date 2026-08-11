@@ -25,20 +25,20 @@ window.config = {
     }
   },
   "assets": {
-    "capa": "assets/cover_1786480097627.png",
+    "capa": "assets/cover_1786482122271.png",
     "cartao": "",
     "aberturaSlides": [
-      "assets/slide1_1786480097627.mp4"
+      "assets/slide1_1786482122271.mp4"
     ],
     "aberturaSlidesMeta": [
       {
-        "filePath": "assets/slide1_1786480097627.mp4",
+        "filePath": "assets/slide1_1786482122271.mp4",
         "label": "Abertura (Vídeo)",
         "type": "video"
       }
     ],
     "folhaVazia": "",
-    "folhaPreenchida": "assets/folha_1786480097627.png",
+    "folhaPreenchida": "assets/folha_1786482122271.png",
     "musica": "",
     "musicStartSec": 0,
     "musicEndSec": null,
