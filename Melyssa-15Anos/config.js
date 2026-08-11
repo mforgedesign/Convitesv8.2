@@ -14,7 +14,7 @@ window.config = {
   "convite": {
     "paletaCores": "Rosa/Rosé",
     "tema": "Floral",
-    "musica": "assets/music_1785969097743.mp3",
+    "musica": "assets/music_1786487240961.mp3",
     "tipoAbertura": "longa",
     "particulasAbertura": true,
     "slug": "Melyssa-15Anos",
@@ -25,39 +25,39 @@ window.config = {
     }
   },
   "assets": {
-    "capa": "assets/cover_1785969097743.png",
-    "cartao": "assets/cartao_chatgpt_1785969097743.jpg",
+    "capa": "assets/cover_1786487240961.png",
+    "cartao": "assets/cartao_chatgpt_1786487240961.jpg",
     "aberturaSlides": [
-      "assets/slide1_1785969097743.mp4",
-      "assets/slide2_1785969097743.jpg",
-      "assets/slide3_1785969097743.mp4",
-      "assets/slide4_1785969097743.mp4"
+      "assets/slide1_1786487240961.mp4",
+      "assets/slide2_1786487240961.jpg",
+      "assets/slide3_1786487240961.mp4",
+      "assets/slide4_1786487240961.mp4"
     ],
     "aberturaSlidesMeta": [
       {
-        "filePath": "assets/slide1_1785969097743.mp4",
+        "filePath": "assets/slide1_1786487240961.mp4",
         "label": "Abertura (Video)",
         "type": "video"
       },
       {
-        "filePath": "assets/slide2_1785969097743.jpg",
+        "filePath": "assets/slide2_1786487240961.jpg",
         "label": "Convite Especial",
         "type": "image"
       },
       {
-        "filePath": "assets/slide3_1785969097743.mp4",
+        "filePath": "assets/slide3_1786487240961.mp4",
         "label": "Slide 2",
         "type": "video"
       },
       {
-        "filePath": "assets/slide4_1785969097743.mp4",
+        "filePath": "assets/slide4_1786487240961.mp4",
         "label": "Slide 1",
         "type": "video"
       }
     ],
-    "folhaVazia": "assets/folha_vazia_1785969097743.jpg",
-    "folhaPreenchida": "assets/folha_1785969097743.png",
-    "musica": "assets/music_1785969097743.mp3",
+    "folhaVazia": "assets/folha_vazia_1786487240961.jpg",
+    "folhaPreenchida": "assets/folha_1786487240961.png",
+    "musica": "assets/music_1786487240961.mp3",
     "musicStartSec": 0,
     "musicEndSec": null,
     "fabric": {
@@ -110,11 +110,11 @@ window.config = {
     },
     {
       "id": "btn_a48358b83065b0d9",
-      "tipoAcao": "PopupHtml",
+      "tipoAcao": "PopupImagem",
       "tipoVisual": "css",
       "titulo": "Dicas de Presente",
       "icone": "fa-solid fa-gift",
-      "conteudo": "<link href=\"https://fonts.googleapis.com/css2?family=Cinzel:wght@400;500;600&family=Cormorant+Garamond:ital,wght@0,300;0,400;0,500;0,600;1,400&display=swap\" rel=\"stylesheet\">\n<link rel=\"stylesheet\" href=\"https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css\">\n\n<style>\n.lp-root, .lp-root *, .lp-root *::before, .lp-root *::after { color-scheme: light only; forced-color-adjust: none; -webkit-font-smoothing: antialiased; box-sizing: border-box; }\n.lp-root { background: #fff5f8; color: #6b1a3a; margin: 0; padding: 0; }\n.lp-wrap { position: relative; padding: 30px 18px 36px; overflow: hidden; font-family: 'Cormorant Garamond', serif; background: linear-gradient(160deg, #fff8fa 0%, #fbeaf0 50%, #fffafd 100%); }\n.flower { position: absolute; pointer-events: none; color: rgba(214,125,153,.45); font-size: 16px; animation: floatFlower 6s ease-in-out infinite; }\n@keyframes floatFlower { 0%,100% { transform: translateY(0) rotate(0deg); opacity: .35; } 50% { transform: translateY(18px) rotate(20deg); opacity: .75; } }\n.lp-header { position: relative; z-index: 2; text-align: center; margin-bottom: 22px; }\n.lp-header h2 { font-family: 'Cinzel', serif; font-size: 22px; color: #6b1a3a; letter-spacing: .13em; margin-bottom: 4px; }\n.lp-header .sub { color: #b05a78; font-size: 14px; font-style: italic; margin-bottom: 2px; }\n.lp-header .badge { display: inline-block; margin-top: 6px; font-family: 'Cinzel', serif; font-size: 10px; letter-spacing: .18em; text-transform: uppercase; background: linear-gradient(135deg, #f2c4d2, #f9e3ea); border: 1px solid rgba(214,125,153,.5); border-radius: 30px; padding: 3px 14px; color: #8d3d5b; }\n.lp-grid { display: grid; gap: 10px; position: relative; z-index: 2; }\n.lp-card { display: flex; gap: 13px; align-items: center; padding: 13px 15px; border-radius: 20px; background: rgba(255,255,255,.93); border: 1px solid rgba(214,125,153,.35); box-shadow: 0 2px 14px rgba(180,70,110,.07); animation: lpFade .5s ease both; }\n@keyframes lpFade { from { opacity: 0; transform: translateY(10px); } to { opacity: 1; transform: translateY(0); } }\n.lp-icon { width: 44px; height: 44px; border-radius: 14px; flex-shrink: 0; display: flex; align-items: center; justify-content: center; font-size: 17px; color: #fff; background: #d67d99; box-shadow: 0 2px 10px rgba(180,70,110,.22); }\n.icon-blue { background: linear-gradient(145deg, #e7a9bc, #b84f75); }\n.icon-silver { background: linear-gradient(145deg, #e8c4cf, #bb8194); }\n.icon-light { background: linear-gradient(145deg, #f0b9ca, #d27698); }\n.icon-deep { background: linear-gradient(145deg, #bd5278, #812443); }\n.icon-ice { background: linear-gradient(145deg, #f3ced9, #c47794); }\n.lp-title { font-family: 'Cinzel', serif; font-size: 11px; letter-spacing: .14em; text-transform: uppercase; color: #b05a78; margin-bottom: 2px; }\n.lp-name { font-size: 15.5px; font-weight: 600; color: #6b1a3a; line-height: 1.3; }\n.lp-tip { display: inline-block; margin-top: 4px; font-size: 12px; color: #8d3d5b; background: rgba(240,185,202,.22); border: 1px solid rgba(214,125,153,.28); border-radius: 30px; padding: 2px 10px; font-style: italic; }\n.lp-footer { position: relative; z-index: 2; margin-top: 18px; border-radius: 20px; background: linear-gradient(145deg, rgba(255,255,255,.95), rgba(250,224,233,.75)); border: 1px solid rgba(214,125,153,.3); padding: 16px; text-align: center; }\n.lp-footer-text { font-size: 15px; color: #7a3652; line-height: 1.7; font-style: italic; }\n.lp-footer-accent { color: #b84f75; font-weight: 600; font-family: 'Cinzel', serif; font-size: 12px; letter-spacing: .08em; display: block; margin-top: 6px; }\n</style>\n\n<div class=\"lp-root\">\n  <span class=\"flower\" style=\"top:8%;left:8%;\">✿</span>\n  <span class=\"flower\" style=\"top:20%;right:12%;animation-delay:1s;\">❀</span>\n  <span class=\"flower\" style=\"bottom:20%;left:12%;animation-delay:2s;\">✦</span>\n  <span class=\"flower\" style=\"bottom:10%;right:9%;animation-delay:.5s;\">✿</span>\n\n  <div class=\"lp-wrap\">\n    <div class=\"lp-header\">\n      <h2>Lista de Presentes</h2>\n      <p class=\"sub\">Com muito carinho e gratidão ✨</p>\n      <span class=\"badge\">✿ Melyssa · 15 anos ✿</span>\n    </div>\n\n    <div class=\"lp-grid\">\n      <div class=\"lp-card\" style=\"animation-delay:.05s\"><div class=\"lp-icon icon-blue\"><i class=\"fa-solid fa-spray-can-sparkles\"></i></div><div><div class=\"lp-title\">Presente</div><div class=\"lp-name\">Perfumes</div></div></div>\n      <div class=\"lp-card\" style=\"animation-delay:.10s\"><div class=\"lp-icon icon-silver\"><i class=\"fa-solid fa-jar\"></i></div><div><div class=\"lp-title\">Presente</div><div class=\"lp-name\">Cremes</div></div></div>\n      <div class=\"lp-card\" style=\"animation-delay:.15s\"><div class=\"lp-icon icon-light\"><i class=\"fa-solid fa-gem\"></i></div><div><div class=\"lp-title\">Presente</div><div class=\"lp-name\">Acessórios</div></div></div>\n      <div class=\"lp-card\" style=\"animation-delay:.20s\"><div class=\"lp-icon icon-deep\"><i class=\"fa-solid fa-palette\"></i></div><div><div class=\"lp-title\">Presente</div><div class=\"lp-name\">Maquiagem</div></div></div>\n      <div class=\"lp-card\" style=\"animation-delay:.25s\"><div class=\"lp-icon icon-blue\"><i class=\"fa-solid fa-shirt\"></i></div><div><div class=\"lp-title\">Presente</div><div class=\"lp-name\">Roupas</div><span class=\"lp-tip\">✦ Tamanho P</span></div></div>\n      <div class=\"lp-card\" style=\"animation-delay:.30s\"><div class=\"lp-icon icon-ice\"><i class=\"fa-solid fa-scissors\"></i></div><div><div class=\"lp-title\">Presente</div><div class=\"lp-name\">Calça · Shorts · Saia</div><span class=\"lp-tip\">✦ Tamanho 34</span></div></div>\n    </div>\n\n    <div class=\"lp-footer\"><div class=\"lp-footer-text\">Sua presença já é o maior presente desta noite especial.</div><span class=\"lp-footer-accent\">Obrigada por fazer parte desse momento ✿✨</span></div>\n  </div>\n</div>"
+      "conteudo": "assets/3_1786487240961.jpg"
     }
   ],
   "upsell": {
