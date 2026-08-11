@@ -14,7 +14,7 @@ window.config = {
   "convite": {
     "paletaCores": "Lilás, Preto e Prata",
     "tema": "Noite estrelada",
-    "musica": "assets/music_1785802181225.mp3",
+    "musica": "assets/music_1786492435233.mp3",
     "tipoAbertura": "longa",
     "particulasAbertura": true,
     "slug": "ConviteNoiteEstreladaDaAmanda-Ketlhyn-3",
@@ -25,27 +25,27 @@ window.config = {
     }
   },
   "assets": {
-    "capa": "assets/cover_1785802181225.jpg",
-    "cartao": "assets/cartao_chatgpt_1785802181225.jpg",
+    "capa": "assets/cover_1786492435233.jpg",
+    "cartao": "assets/cartao_chatgpt_1786492435233.jpg",
     "aberturaSlides": [
-      "assets/slide1_1785802181225.mp4",
-      "assets/slide2_1785802181225.mp4"
+      "assets/slide1_1786492435233.mp4",
+      "assets/slide2_1786492435233.mp4"
     ],
     "aberturaSlidesMeta": [
       {
-        "filePath": "assets/slide1_1785802181225.mp4",
+        "filePath": "assets/slide1_1786492435233.mp4",
         "label": "Slide 1",
         "type": "video"
       },
       {
-        "filePath": "assets/slide2_1785802181225.mp4",
+        "filePath": "assets/slide2_1786492435233.mp4",
         "label": "Slide 1",
         "type": "video"
       }
     ],
     "folhaVazia": "",
-    "folhaPreenchida": "assets/folha_1785802181225.mp4",
-    "musica": "assets/music_1785802181225.mp3",
+    "folhaPreenchida": "assets/folha_1786492435233.mp4",
+    "musica": "assets/music_1786492435233.mp3",
     "musicStartSec": 0,
     "musicEndSec": null,
     "fabric": {
@@ -78,7 +78,7 @@ window.config = {
       "tipoVisual": "css",
       "titulo": "Localização",
       "icone": "fa-solid fa-location-dot",
-      "conteudo": "https://www.google.com/maps/search/?api=1&query=Rua+Pedro+Pessoa+4401+A"
+      "conteudo": "https://maps.app.goo.gl/AF2kbQwHh4yGFbLM6"
     },
     {
       "id": "btn_legacy_rsvp",
@@ -99,7 +99,7 @@ window.config = {
       "tipoVisual": "css",
       "titulo": "Presentes",
       "icone": "fa-solid fa-gift",
-      "conteudo": "assets/convitenoiteestreladadaamandaketlhyn_presentes_sem_prata_1785802181225.png"
+      "conteudo": "assets/convitenoiteestreladadaamandaketlhyn_presentes_sem_prata_1786492435233.png"
     }
   ],
   "upsell": {
