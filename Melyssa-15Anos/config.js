@@ -14,7 +14,7 @@ window.config = {
   "convite": {
     "paletaCores": "Rosa/Rosé",
     "tema": "Floral",
-    "musica": "assets/music_1786494278414.mp3",
+    "musica": "assets/music_1786545885646.mp3",
     "tipoAbertura": "longa",
     "particulasAbertura": true,
     "slug": "Melyssa-15Anos",
@@ -25,39 +25,39 @@ window.config = {
     }
   },
   "assets": {
-    "capa": "assets/cover_1786494278414.png",
-    "cartao": "assets/cartao_chatgpt_1786494278414.jpg",
+    "capa": "assets/cover_1786545885646.png",
+    "cartao": "assets/cartao_chatgpt_1786545885646.jpg",
     "aberturaSlides": [
-      "assets/slide1_1786494278414.mp4",
-      "assets/slide2_1786494278414.jpg",
-      "assets/slide3_1786494278414.mp4",
-      "assets/slide4_1786494278414.mp4"
+      "assets/slide1_1786545885646.mp4",
+      "assets/slide2_1786545885646.jpg",
+      "assets/slide3_1786545885646.mp4",
+      "assets/slide4_1786545885646.mp4"
     ],
     "aberturaSlidesMeta": [
       {
-        "filePath": "assets/slide1_1786494278414.mp4",
+        "filePath": "assets/slide1_1786545885646.mp4",
         "label": "Abertura (Video)",
         "type": "video"
       },
       {
-        "filePath": "assets/slide2_1786494278414.jpg",
+        "filePath": "assets/slide2_1786545885646.jpg",
         "label": "Convite Especial",
         "type": "image"
       },
       {
-        "filePath": "assets/slide3_1786494278414.mp4",
+        "filePath": "assets/slide3_1786545885646.mp4",
         "label": "Slide 2",
         "type": "video"
       },
       {
-        "filePath": "assets/slide4_1786494278414.mp4",
+        "filePath": "assets/slide4_1786545885646.mp4",
         "label": "Slide 1",
         "type": "video"
       }
     ],
-    "folhaVazia": "assets/folha_vazia_1786494278414.jpg",
-    "folhaPreenchida": "assets/folha_1786494278414.png",
-    "musica": "assets/music_1786494278414.mp3",
+    "folhaVazia": "assets/folha_vazia_1786545885646.jpg",
+    "folhaPreenchida": "assets/folha_1786545885646.png",
+    "musica": "assets/music_1786545885646.mp3",
     "musicStartSec": 0,
     "musicEndSec": null,
     "fabric": {
