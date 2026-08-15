@@ -14,7 +14,7 @@ window.config = {
   "convite": {
     "paletaCores": "Preto, Vinho, Azul-petróleo, Dourado",
     "tema": "Alice no País das Maravilhas",
-    "musica": "assets/music_1786215474403.mp3",
+    "musica": "assets/music_1786838020929.mp3",
     "tipoAbertura": "longa",
     "particulasAbertura": true,
     "slug": "BeatrizGouveia-15Anos",
@@ -25,39 +25,39 @@ window.config = {
     }
   },
   "assets": {
-    "capa": "assets/cover_1786215474403.png",
-    "cartao": "assets/cartao_chatgpt_1786215474403.jpg",
+    "capa": "assets/cover_1786838020929.png",
+    "cartao": "assets/cartao_chatgpt_1786838020929.jpg",
     "aberturaSlides": [
-      "assets/slide1_1786215474403.mp4",
-      "assets/slide2_1786215474403.mp4",
-      "assets/slide3_1786215474403.jpg",
-      "assets/slide4_1786215474403.mp4"
+      "assets/slide1_1786838020929.mp4",
+      "assets/slide2_1786838020929.mp4",
+      "assets/slide3_1786838020929.jpg",
+      "assets/slide4_1786838020929.mp4"
     ],
     "aberturaSlidesMeta": [
       {
-        "filePath": "assets/slide1_1786215474403.mp4",
+        "filePath": "assets/slide1_1786838020929.mp4",
         "label": "Abertura (Vídeo)",
         "type": "video"
       },
       {
-        "filePath": "assets/slide2_1786215474403.mp4",
+        "filePath": "assets/slide2_1786838020929.mp4",
         "label": "Slide 1",
         "type": "video"
       },
       {
-        "filePath": "assets/slide3_1786215474403.jpg",
+        "filePath": "assets/slide3_1786838020929.jpg",
         "label": "Slide 2",
         "type": "video"
       },
       {
-        "filePath": "assets/slide4_1786215474403.mp4",
+        "filePath": "assets/slide4_1786838020929.mp4",
         "label": "Slide 3",
         "type": "video"
       }
     ],
-    "folhaVazia": "assets/folha_vazia_1786215474403.png",
-    "folhaPreenchida": "assets/folha_1786215474403.jpg",
-    "musica": "assets/music_1786215474403.mp3",
+    "folhaVazia": "assets/folha_vazia_1786838020929.png",
+    "folhaPreenchida": "assets/folha_1786838020929.png",
+    "musica": "assets/music_1786838020929.mp3",
     "musicStartSec": 0,
     "musicEndSec": null,
     "fabric": {
@@ -99,6 +99,14 @@ window.config = {
       "titulo": "Confirmar Presença",
       "icone": "fa-solid fa-check",
       "conteudo": "558587836809"
+    },
+    {
+      "id": "btn_71a91134-4dd6-46d2-9445-9e77ab54b214",
+      "tipoAcao": "Link",
+      "tipoVisual": "css",
+      "titulo": "",
+      "icone": "fa-solid fa-star",
+      "conteudo": ""
     }
   ],
   "upsell": {
@@ -109,7 +117,7 @@ window.config = {
   "config": {
     "exibirMarcaDagua": false,
     "cronometro": false,
-    "buttonColor": "#0c2b71",
+    "buttonColor": "#550c0c",
     "buttonGradientColor": "#ec4899",
     "buttonGradientEnabled": false,
     "buttonSize": 1,
