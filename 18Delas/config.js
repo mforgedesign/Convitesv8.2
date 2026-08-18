@@ -14,7 +14,7 @@ window.config = {
   "convite": {
     "paletaCores": "Dourado e Champagne",
     "tema": "Minimalista Elegante, Perfume Fragâncias",
-    "musica": "assets/music_1785951676190.mp3",
+    "musica": "assets/music_1787015832344.mp3",
     "tipoAbertura": "longa",
     "particulasAbertura": true,
     "slug": "18Delas",
@@ -25,33 +25,33 @@ window.config = {
     }
   },
   "assets": {
-    "capa": "assets/cover_1785951676190.jpg",
-    "cartao": "assets/cartao_chatgpt_1785951676190.jpg",
+    "capa": "assets/cover_1787015832344.jpg",
+    "cartao": "assets/cartao_chatgpt_1787015832344.jpg",
     "aberturaSlides": [
-      "assets/slide1_1785951676190.mp4",
-      "assets/slide2_1785951676190.mp4",
-      "assets/slide3_1785951676190.mp4"
+      "assets/slide1_1787015832344.mp4",
+      "assets/slide2_1787015832344.mp4",
+      "assets/slide3_1787015832344.mp4"
     ],
     "aberturaSlidesMeta": [
       {
-        "filePath": "assets/slide1_1785951676190.mp4",
+        "filePath": "assets/slide1_1787015832344.mp4",
         "label": "Abertura (Vídeo)",
         "type": "video"
       },
       {
-        "filePath": "assets/slide2_1785951676190.mp4",
+        "filePath": "assets/slide2_1787015832344.mp4",
         "label": "Slide 1",
         "type": "video"
       },
       {
-        "filePath": "assets/slide3_1785951676190.mp4",
+        "filePath": "assets/slide3_1787015832344.mp4",
         "label": "Slide 1",
         "type": "video"
       }
     ],
-    "folhaVazia": "assets/folha_vazia_1785951676190.png",
-    "folhaPreenchida": "assets/folha_1785951676190.jpg",
-    "musica": "assets/music_1785951676190.mp3",
+    "folhaVazia": "assets/folha_vazia_1787015832344.png",
+    "folhaPreenchida": "assets/folha_1787015832344.jpg",
+    "musica": "assets/music_1787015832344.mp3",
     "musicStartSec": 0,
     "musicEndSec": null,
     "fabric": {
@@ -122,7 +122,7 @@ window.config = {
     "lembrete": false
   },
   "config": {
-    "exibirMarcaDagua": true,
+    "exibirMarcaDagua": false,
     "cronometro": false,
     "buttonColor": "#f4e1cf",
     "buttonGradientColor": "#ec4899",
